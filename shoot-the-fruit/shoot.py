@@ -1,7 +1,7 @@
 import pgzrun
 from random import randint
 
-#To-do: add a counter
+score = 0
 
 #defining sprite
 apple = Actor("apple.png")
@@ -13,10 +13,12 @@ def fruits():
     orange.draw()
     pineapple.draw()
     
-#find out why theres no need to run the function 
+
 def draw():
     screen.clear()
     fruits()
+    screen.draw.text("Score " + str(score), color ="white", topleft=(23,23))
+
     
 
 
@@ -33,9 +35,11 @@ def place_fruits():
 
 
 def on_mouse_down(pos):
+    global score
     #pos == position of the cursor
     if apple.collidepoint(pos):
         print("Good shot!")
+        score = score + 1
         place_fruits()
     else:
         print("You missed")
