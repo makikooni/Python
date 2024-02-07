@@ -34,16 +34,16 @@ question = questions.pop(0)
 
 
 def draw():
-    screen.fill("dim gray")
-    screen.draw.filled_rect(main_box, "sky blue")
+    screen.fill((255,228,225))
+    screen.draw.filled_rect(main_box, (210,184,135))
     screen.draw.textbox(question[0], main_box, color=("black"))
     
-    screen.draw.filled_rect(timer_box, "sky blue")
+    screen.draw.filled_rect(timer_box, (210,184,135))
     screen.draw.textbox(str(time_left), timer_box, color=("black"))
     index = 1
     
     for box in answer_boxes:
-        screen.draw.filled_rect(box, "orange")
+        screen.draw.filled_rect(box, (245,222,179))
         screen.draw.textbox(question[index], box, color=("black"))
         # no need to declare question as global because its only accessed but not modified 
         index = index + 1
@@ -85,6 +85,12 @@ def update_time_left():
         time_left = time_left - 1
     else:
         game_over()
+        
+def on_key_up(key):
+    global score
+    if key == keys.SPACE:
+        score = score - 1
+        correct_answer()
         
 clock.schedule_interval(update_time_left, 1.0)
 
