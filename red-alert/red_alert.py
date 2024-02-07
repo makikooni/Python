@@ -15,7 +15,7 @@ CENTER = (CENTER_X, CENTER_Y)
 #number_of_levels:
 FINAL_LEVEL = 10
 
-START_SPEED = 10
+START_SPEED = 11
 
 #colors of stars that should not be clicked:
 COLORS = ["green", "blue"]
