@@ -13,12 +13,17 @@ score = 0
 current_move = 0
 count = 4
 dance_length = 4
+rounds = 0
 
+move_cooldown = False
 say_dance = False
 show_countdown = True
 moves_complete = False
 game_over = False
 
+def reset_move_cooldown():
+    global move_cooldown
+    move_cooldown = False
 
 dancer = Actor("dancer-start") 
 dancer.pos = CENTER_X + 5, CENTER_Y - 40
@@ -52,7 +57,7 @@ def draw():
     else:
         screen.clear()
         screen.blit("stage", (0,0))
-        screen.draw.text("Score: " + str(score), color="black", topleft=(CENTER_X - 130,220), fontsize=60)
+        screen.draw.text("Score: " + str(score), color="black", topleft=(CENTER_X - 80,220), fontsize=60)
     return 
 
 def reset_dancer():
@@ -104,8 +109,8 @@ def display_moves():
             update_dancer(1)
             clock.schedule(display_moves, 1)
         elif this_move == 2:
-            update_dancer(1)
-            clock.schedule(display_moves, 2)
+            update_dancer(2)
+            clock.schedule(display_moves, 1)
         else:
             update_dancer(3)
             clock.schedule(display_moves, 1)
@@ -115,16 +120,20 @@ def display_moves():
     return 
   
 def generate_moves():
-    global move_list, dance_length, count, show_countdown, say_dance
+    global move_list, dance_length, count, show_countdown, say_dance, rounds
     count = 4
     move_list = []
     say_dance = False
+    rounds = 0
     for move in range(0, dance_length):
         rand_move = randint(0, 3)
         move_list.append(rand_move)
         display_list.append(rand_move)
     show_countdown = True
     countdown()
+    rounds += 1  # Increment the rounds counter
+    if rounds % 3 == 0:
+        dance_length += 1  # Increase dance_length every 3 rounds
     return 
 
 def countdown():
@@ -146,40 +155,42 @@ def next_move():
     return 
 
 def on_key_up(key):
-    global score, game_over, move_list, current_move
-    if key ==keys.UP or key == keys.W:
-        update_dancer(0)
-        if move_list[current_move] == 0:
-            score = score + 1
-            next_move()
-        else:
-            game_over = True
-            
-    elif key == keys.RIGHT or key == keys.D:
-        update_dancer(1)
-        if move_list[current_move] == 1:
-            score = score + 1
-            next_move()
-        else:
-            game_over = True
-            
-    elif key == keys.DOWN or key == keys.S:
-        update_dancer(2)
-        if move_list[current_move] == 2:
-            score = score + 1
-            next_move()
-        else:
-            game_over = True
-            
-    elif key == keys.LEFT or key == keys.A:
-        update_dancer(3)
-        if move_list[current_move] == 3:
-            score = score + 1
-            next_move()
-        else:
-            game_over = True
-            
-    return 
+    global score, game_over, move_list, current_move, move_cooldown
+    if not move_cooldown:
+        if key ==keys.UP or key == keys.W:
+            update_dancer(0)
+            if move_list[current_move] == 0:
+                score = score + 1
+                next_move()
+            else:
+                game_over = True
+                
+        elif key == keys.RIGHT or key == keys.D:
+            update_dancer(1)
+            if move_list[current_move] == 1:
+                score = score + 1
+                next_move()
+            else:
+                game_over = True
+                
+        elif key == keys.DOWN or key == keys.S:
+            update_dancer(2)
+            if move_list[current_move] == 2:
+                score = score + 1
+                next_move()
+            else:
+                game_over = True
+                
+        elif key == keys.LEFT or key == keys.A:
+            update_dancer(3)
+            if move_list[current_move] == 3:
+                score = score + 1
+                next_move()
+            else:
+                game_over = True
+        move_cooldown = True
+        clock.schedule_unique(reset_move_cooldown, 0.5)    
+         
 
 generate_moves()
 music.play("vanishing-horizon")
@@ -191,8 +202,26 @@ def update():
             generate_moves()
             moves_complete = False
             current_move = 0
-        else:
-            music.stop()
+    else:
+        music.stop()
+        
+def on_key_down(key):
+    global game_over
+    if game_over and key == keys.SPACE:
+        # Reset game state
+        reset_game()
+        # Start a new game
+        generate_moves()
 
-
+def reset_game():
+    global game_over, score, rounds, move_list, display_list, current_move
+    game_over = False
+    score = 0
+    rounds = 0
+    reset_dancer()
+    move_list = []
+    display_list = []
+    current_move = 0 
+    music.play("vanishing-horizon") 
+        
 pgzrun.go()
