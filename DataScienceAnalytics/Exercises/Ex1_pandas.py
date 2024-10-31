@@ -30,7 +30,7 @@ def totalPopulation(df, dep):
     for index, row in df.iterrows():  # Iterate over DataFrame rows
         if str(row["CODDEP"]) == dep:  # Compare CODDEP as a string
             total += row['PTOT']  # Add to total population
-    #print(f"The total population in dep {dep} is: {total}")  # Output result
+    print(f"The total population in dep {dep} is: {total}")  # Output result
     return dep,total 
 
 
@@ -85,9 +85,9 @@ def mostPopulated(df, deps):
                 population_dict[coddep] += row["PTOT"]
             else:  # Otherwise, initialize the population
                 population_dict[coddep] = row["PTOT"]
-    
+ 
     sorted_population = sorted(population_dict.items(), key=lambda x: x[1], reverse=True)
-    answer =  sorted_population[-1]
+    answer =  sorted_population[0]
     print("Department " + str(answer[0]) + " has the biggest population of " + str(answer[1]))
     return answer
 
@@ -111,7 +111,7 @@ def lowerThan(number):
     print("Deps with population lower than " + str(number) + " are: " + str(new_list))
     return new_list
 
-#print(lowerThan(200000))
+lowerThan(200000)
 
 #EXERCISE 7 ------------------------------------
 
