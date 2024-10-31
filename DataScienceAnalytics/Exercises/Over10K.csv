@@ -1,0 +1,1073 @@
+CODREG,REG,CODDEP,CODARR,CODCAN,CODCOM,COM,PMUN,PCAP,PTOT
+84,Auvergne-Rhône-Alpes,1,1,01,4,Ambérieu-en-Bugey,14134,380,14514
+84,Auvergne-Rhône-Alpes,1,4,03,33,Valserhône,16378,350,16728
+84,Auvergne-Rhône-Alpes,1,2,99,53,Bourg-en-Bresse,41111,1742,42853
+84,Auvergne-Rhône-Alpes,1,3,09,143,Divonne-les-Bains,9951,239,10190
+84,Auvergne-Rhône-Alpes,1,3,19,160,Ferney-Voltaire,10026,163,10189
+84,Auvergne-Rhône-Alpes,1,3,09,173,Gex,13121,270,13391
+84,Auvergne-Rhône-Alpes,1,2,13,249,Miribel,10122,151,10273
+84,Auvergne-Rhône-Alpes,1,4,15,283,Oyonnax,22456,479,22935
+84,Auvergne-Rhône-Alpes,1,3,19,354,Saint-Genis-Pouilly,13943,200,14143
+32,Hauts-de-France,2,1,02,168,Château-Thierry,15254,362,15616
+32,Hauts-de-France,2,2,03,173,Chauny,11653,419,12072
+32,Hauts-de-France,2,2,97,408,Laon,24304,666,24970
+32,Hauts-de-France,2,3,98,691,Saint-Quentin,53570,1281,54851
+32,Hauts-de-France,2,4,99,722,Soissons,28712,651,29363
+32,Hauts-de-France,2,2,18,738,Tergnier,13588,200,13788
+32,Hauts-de-France,2,4,21,810,Villers-Cotterêts,10424,417,10841
+84,Auvergne-Rhône-Alpes,3,3,04,95,Cusset,12474,481,12955
+84,Auvergne-Rhône-Alpes,3,1,97,185,Montluçon,34361,1070,35431
+84,Auvergne-Rhône-Alpes,3,2,98,190,Moulins,19246,542,19788
+84,Auvergne-Rhône-Alpes,3,3,99,310,Vichy,24980,322,25302
+84,Auvergne-Rhône-Alpes,3,2,19,321,Yzeure,12838,517,13355
+93,Provence-Alpes-Côte d'Azur,4,3,98,70,Digne-les-Bains,16482,922,17404
+93,Provence-Alpes-Côte d'Azur,4,4,99,112,Manosque,22528,669,23197
+93,Provence-Alpes-Côte d'Azur,5,1,98,23,Briançon,11339,320,11659
+93,Provence-Alpes-Côte d'Azur,5,2,99,61,Gap,40631,1545,42176
+93,Provence-Alpes-Côte d'Azur,6,1,94,4,Antibes,73438,1085,74523
+93,Provence-Alpes-Côte d'Azur,6,2,04,12,Beausoleil,13358,130,13488
+93,Provence-Alpes-Côte d'Azur,6,1,03,18,Biot,9668,351,10019
+93,Provence-Alpes-Côte d'Azur,6,1,95,27,Cagnes-sur-Mer,52178,491,52669
+93,Provence-Alpes-Côte d'Azur,6,1,96,29,Cannes,74545,802,75347
+93,Provence-Alpes-Côte d'Azur,6,1,97,30,Le Cannet,41887,359,42246
+93,Provence-Alpes-Côte d'Azur,6,1,17,33,Carros,12550,136,12686
+93,Provence-Alpes-Côte d'Azur,6,1,98,69,Grasse,48870,922,49792
+93,Provence-Alpes-Côte d'Azur,6,1,13,79,Mandelieu-la-Napoule,21998,283,22281
+93,Provence-Alpes-Côte d'Azur,6,2,14,83,Menton,30525,456,30981
+93,Provence-Alpes-Côte d'Azur,6,1,12,84,Mouans-Sartoux,9887,282,10169
+93,Provence-Alpes-Côte d'Azur,6,1,09,85,Mougins,19982,439,20421
+93,Provence-Alpes-Côte d'Azur,6,2,99,88,Nice,342669,2859,345528
+93,Provence-Alpes-Côte d'Azur,6,2,14,104,Roquebrune-Cap-Martin,12839,202,13041
+93,Provence-Alpes-Côte d'Azur,6,1,06,123,Saint-Laurent-du-Var,29169,183,29352
+93,Provence-Alpes-Côte d'Azur,6,2,21,149,La Trinité,10115,65,10180
+93,Provence-Alpes-Côte d'Azur,6,1,25,152,Valbonne,13486,554,14040
+93,Provence-Alpes-Côte d'Azur,6,1,01,155,Vallauris,27364,179,27543
+93,Provence-Alpes-Côte d'Azur,6,1,26,157,Vence,18940,302,19242
+93,Provence-Alpes-Côte d'Azur,6,1,27,161,Villeneuve-Loubet,16285,236,16521
+84,Auvergne-Rhône-Alpes,7,3,98,10,Annonay,16297,623,16920
+84,Auvergne-Rhône-Alpes,7,1,99,19,Aubenas,12479,776,13255
+84,Auvergne-Rhône-Alpes,7,3,07,102,Guilherand-Granges,10756,221,10977
+84,Auvergne-Rhône-Alpes,7,3,14,324,Tournon-sur-Rhône,10622,515,11137
+44,Grand Est,8,1,98,105,Charleville-Mézières,46436,1090,47526
+44,Grand Est,8,3,99,409,Sedan,16092,337,16429
+76,Occitanie,9,2,99,225,Pamiers,15659,478,16137
+44,Grand Est,10,3,14,81,La Chapelle-Saint-Luc,11741,92,11833
+44,Grand Est,10,2,09,323,Romilly-sur-Seine,14480,318,14798
+44,Grand Est,10,3,10,333,Saint-André-les-Vergers,12784,190,12974
+44,Grand Est,10,3,13,362,Sainte-Savine,10508,388,10896
+44,Grand Est,10,3,99,387,Troyes,61957,1130,63087
+76,Occitanie,11,1,98,69,Carcassonne,46825,1291,48116
+76,Occitanie,11,1,05,76,Castelnaudary,12187,507,12694
+76,Occitanie,11,3,08,203,Lézignan-Corbières,11317,220,11537
+76,Occitanie,11,2,09,206,Limoux,10012,509,10521
+76,Occitanie,11,3,99,262,Narbonne,55516,1184,56700
+76,Occitanie,12,1,98,145,Millau,21979,680,22659
+76,Occitanie,12,2,18,176,Onet-le-Château,11665,594,12259
+76,Occitanie,12,2,99,202,Rodez,24475,1935,26410
+76,Occitanie,12,3,22,300,Villefranche-de-Rouergue,11602,551,12153
+93,Provence-Alpes-Côte d'Azur,13,1,97,1,Aix-en-Provence,145133,3203,148336
+93,Provence-Alpes-Côte d'Azur,13,3,03,2,Allauch,21372,225,21597
+93,Provence-Alpes-Côte d'Azur,13,2,04,4,Arles,50454,789,51243
+93,Provence-Alpes-Côte d'Azur,13,3,05,5,Aubagne,47535,451,47986
+93,Provence-Alpes-Côte d'Azur,13,3,03,7,Auriol,12922,162,13084
+93,Provence-Alpes-Côte d'Azur,13,4,06,14,Berre-l'Étang,13660,77,13737
+93,Provence-Alpes-Côte d'Azur,13,1,29,15,Bouc-Bel-Air,14838,305,15143
+93,Provence-Alpes-Côte d'Azur,13,1,29,19,Cabriès,9918,324,10242
+93,Provence-Alpes-Côte d'Azur,13,4,11,26,Châteauneuf-les-Martigues,17606,61,17667
+93,Provence-Alpes-Côte d'Azur,13,2,07,27,Châteaurenard,16063,252,16315
+93,Provence-Alpes-Côte d'Azur,13,3,08,28,La Ciotat,35993,381,36374
+93,Provence-Alpes-Côte d'Azur,13,4,10,39,Fos-sur-Mer,15687,183,15870
+93,Provence-Alpes-Côte d'Azur,13,1,28,40,Fuveau,10161,188,10349
+93,Provence-Alpes-Côte d'Azur,13,1,09,41,Gardanne,21521,338,21859
+93,Provence-Alpes-Côte d'Azur,13,4,10,47,Istres,43626,657,44283
+93,Provence-Alpes-Côte d'Azur,13,1,25,50,Lambesc,9909,266,10175
+93,Provence-Alpes-Côte d'Azur,13,4,11,54,Marignane,32384,228,32612
+93,Provence-Alpes-Côte d'Azur,13,4,24,56,Martigues,48574,516,49090
+93,Provence-Alpes-Côte d'Azur,13,4,27,63,Miramas,26428,400,26828
+93,Provence-Alpes-Côte d'Azur,13,1,25,69,Pélissanne,10487,267,10754
+93,Provence-Alpes-Côte d'Azur,13,1,09,71,Les Pennes-Mirabeau,21623,287,21910
+93,Provence-Alpes-Côte d'Azur,13,3,03,75,Plan-de-Cuques,11649,103,11752
+93,Provence-Alpes-Côte d'Azur,13,4,24,77,Port-de-Bouc,16651,127,16778
+93,Provence-Alpes-Côte d'Azur,13,4,06,81,Rognac,12086,123,12209
+93,Provence-Alpes-Côte d'Azur,13,2,27,97,Saint-Martin-de-Crau,13413,299,13712
+93,Provence-Alpes-Côte d'Azur,13,1,99,103,Salon-de-Provence,45386,584,45970
+93,Provence-Alpes-Côte d'Azur,13,3,09,106,Septèmes-les-Vallons,11196,95,11291
+93,Provence-Alpes-Côte d'Azur,13,2,07,108,Tarascon,15811,142,15953
+93,Provence-Alpes-Côte d'Azur,13,1,28,110,Trets,10303,150,10453
+93,Provence-Alpes-Côte d'Azur,13,4,29,117,Vitrolles,33333,368,33701
+93,Provence-Alpes-Côte d'Azur,13,3,12,201,Marseille 1er Arrondissement,39893,200,40093
+93,Provence-Alpes-Côte d'Azur,13,3,13,202,Marseille 2e Arrondissement,25217,58,25275
+93,Provence-Alpes-Côte d'Azur,13,3,98,203,Marseille 3e Arrondissement,51792,194,51986
+93,Provence-Alpes-Côte d'Azur,13,3,98,204,Marseille 4e Arrondissement,49296,303,49599
+93,Provence-Alpes-Côte d'Azur,13,3,98,205,Marseille 5e Arrondissement,46152,279,46431
+93,Provence-Alpes-Côte d'Azur,13,3,98,206,Marseille 6e Arrondissement,42135,406,42541
+93,Provence-Alpes-Côte d'Azur,13,3,23,207,Marseille 7e Arrondissement,34697,313,35010
+93,Provence-Alpes-Côte d'Azur,13,3,98,208,Marseille 8e Arrondissement,81436,1254,82690
+93,Provence-Alpes-Côte d'Azur,13,3,98,209,Marseille 9e Arrondissement,76633,654,77287
+93,Provence-Alpes-Côte d'Azur,13,3,98,210,Marseille 10e Arrondissement,58491,340,58831
+93,Provence-Alpes-Côte d'Azur,13,3,98,211,Marseille 11e Arrondissement,57278,443,57721
+93,Provence-Alpes-Côte d'Azur,13,3,98,212,Marseille 12e Arrondissement,61406,552,61958
+93,Provence-Alpes-Côte d'Azur,13,3,98,213,Marseille 13e Arrondissement,91358,717,92075
+93,Provence-Alpes-Côte d'Azur,13,3,98,214,Marseille 14e Arrondissement,61702,252,61954
+93,Provence-Alpes-Côte d'Azur,13,3,98,215,Marseille 15e Arrondissement,77243,299,77542
+93,Provence-Alpes-Côte d'Azur,13,3,14,216,Marseille 16e Arrondissement,16002,100,16102
+28,Normandie,14,1,02,47,Bayeux,12682,329,13011
+28,Normandie,14,2,99,118,Caen,106230,2174,108404
+28,Normandie,14,2,14,327,Hérouville-Saint-Clair,22555,275,22830
+28,Normandie,14,2,16,341,Ifs,11696,193,11889
+28,Normandie,14,3,17,366,Lisieux,20038,654,20692
+28,Normandie,14,2,16,437,Mondeville,9973,244,10217
+28,Normandie,14,4,25,762,Vire Normandie,16590,891,17481
+84,Auvergne-Rhône-Alpes,15,1,98,14,Aurillac,25593,1283,26876
+75,Nouvelle-Aquitaine,16,1,98,15,Angoulême,41603,1687,43290
+75,Nouvelle-Aquitaine,16,2,99,102,Cognac,18670,434,19104
+75,Nouvelle-Aquitaine,16,1,03,374,Soyaux,9761,312,10073
+75,Nouvelle-Aquitaine,17,2,13,299,Rochefort,23584,682,24266
+75,Nouvelle-Aquitaine,17,3,99,300,La Rochelle,77205,2128,79333
+75,Nouvelle-Aquitaine,17,2,17,306,Royan,18419,527,18946
+75,Nouvelle-Aquitaine,17,4,20,415,Saintes,25287,1407,26694
+24,Centre-Val de Loire,18,1,98,33,Bourges,64541,2065,66606
+24,Centre-Val de Loire,18,3,99,279,Vierzon,25464,522,25986
+75,Nouvelle-Aquitaine,19,1,99,31,Brive-la-Gaillarde,46330,1285,47615
+75,Nouvelle-Aquitaine,19,2,16,272,Tulle,14812,663,15475
+27,Bourgogne-Franche-Comté,21,1,03,54,Beaune,20551,759,21310
+27,Bourgogne-Franche-Comté,21,2,06,166,Chenôve,14025,191,14216
+27,Bourgogne-Franche-Comté,21,2,07,171,Chevigny-Saint-Sauveur,11123,210,11333
+27,Bourgogne-Franche-Comté,21,2,99,231,Dijon,158002,3378,161380
+27,Bourgogne-Franche-Comté,21,2,23,617,Talant,11713,226,11939
+53,Bretagne,22,1,04,50,Dinan,14407,587,14994
+53,Bretagne,22,4,89,93,Lamballe-Armor,16688,470,17158
+53,Bretagne,22,3,07,113,Lannion,20210,936,21146
+53,Bretagne,22,4,18,187,Plérin,14309,487,14796
+53,Bretagne,22,4,21,215,Ploufragan,11383,356,11739
+53,Bretagne,22,4,99,278,Saint-Brieuc,43605,1494,45099
+75,Nouvelle-Aquitaine,23,2,99,96,Guéret,12734,637,13371
+75,Nouvelle-Aquitaine,24,1,98,37,Bergerac,26693,715,27408
+75,Nouvelle-Aquitaine,24,3,07,53,Boulazac Isle Manoire,10737,341,11078
+75,Nouvelle-Aquitaine,24,3,99,322,Périgueux,29896,1580,31476
+27,Bourgogne-Franche-Comté,25,2,01,31,Audincourt,13341,208,13549
+27,Bourgogne-Franche-Comté,25,1,99,56,Besançon,117912,3232,121144
+27,Bourgogne-Franche-Comté,25,2,13,388,Montbéliard,25806,559,26365
+27,Bourgogne-Franche-Comté,25,3,16,462,Pontarlier,17542,898,18440
+27,Bourgogne-Franche-Comté,25,2,19,580,Valentigney,11272,169,11441
+84,Auvergne-Rhône-Alpes,26,3,01,57,Bourg-de-Péage,9957,145,10102
+84,Auvergne-Rhône-Alpes,26,3,15,58,Bourg-lès-Valence,19792,566,20358
+84,Auvergne-Rhône-Alpes,26,2,97,198,Montélimar,39818,1234,41052
+84,Auvergne-Rhône-Alpes,26,2,14,235,Pierrelatte,13510,259,13769
+84,Auvergne-Rhône-Alpes,26,3,17,252,Portes-lès-Valence,10680,151,10831
+84,Auvergne-Rhône-Alpes,26,3,98,281,Romans-sur-Isère,33098,680,33778
+84,Auvergne-Rhône-Alpes,26,3,99,362,Valence,64749,1400,66149
+28,Normandie,27,2,02,56,Bernay,9848,311,10159
+28,Normandie,27,3,99,229,Évreux,46349,1225,47574
+28,Normandie,27,1,13,284,Gisors,11696,166,11862
+28,Normandie,27,1,14,375,Louviers,18518,403,18921
+28,Normandie,27,2,17,467,Pont-Audemer,9982,272,10254
+28,Normandie,27,1,23,681,Vernon,23727,677,24404
+28,Normandie,27,1,21,701,Val-de-Reuil,12910,287,13197
+24,Centre-Val de Loire,28,1,98,85,Chartres,38534,1164,39698
+24,Centre-Val de Loire,28,2,07,88,Châteaudun,13096,336,13432
+24,Centre-Val de Loire,28,3,99,134,Dreux,30646,519,31165
+24,Centre-Val de Loire,28,1,12,218,Lucé,15403,215,15618
+24,Centre-Val de Loire,28,1,06,229,Mainvilliers,11127,258,11385
+24,Centre-Val de Loire,28,3,08,404,Vernouillet,12472,150,12622
+53,Bretagne,29,1,98,19,Brest,139926,2629,142555
+53,Bretagne,29,4,08,39,Concarneau,19816,856,20672
+53,Bretagne,29,4,10,46,Douarnenez,14000,365,14365
+53,Bretagne,29,4,11,58,Fouesnant,9864,484,10348
+53,Bretagne,29,1,12,75,Guipavas,15050,357,15407
+53,Bretagne,29,1,13,103,Landerneau,15918,614,16532
+53,Bretagne,29,3,17,151,Morlaix,14845,457,15302
+53,Bretagne,29,1,12,189,Plougastel-Daoulas,13161,365,13526
+53,Bretagne,29,1,03,212,Plouzané,13496,245,13741
+53,Bretagne,29,4,99,232,Quimper,63283,2478,65761
+53,Bretagne,29,4,25,233,Quimperlé,12220,458,12678
+53,Bretagne,29,1,12,235,Le Relecq-Kerhuon,11717,234,11951
+94,Corse,2A,1,98,4,Ajaccio,71361,867,72228
+94,Corse,2A,4,99,247,Porto-Vecchio,11132,180,11312
+94,Corse,2B,2,99,33,Bastia,48503,695,49198
+76,Occitanie,30,1,98,7,Alès,41837,615,42452
+76,Occitanie,30,2,05,28,Bagnols-sur-Cèze,18091,358,18449
+76,Occitanie,30,2,06,32,Beaucaire,15906,139,16045
+76,Occitanie,30,2,99,189,Nîmes,148561,2225,150786
+76,Occitanie,30,2,14,202,Pont-Saint-Esprit,10369,192,10561
+76,Occitanie,30,2,19,258,Saint-Gilles,13931,108,14039
+76,Occitanie,30,2,21,341,Vauvert,11492,118,11610
+76,Occitanie,30,2,23,351,Villeneuve-lès-Avignon,12216,401,12617
+76,Occitanie,31,1,01,33,Auterive,9923,95,10018
+76,Occitanie,31,3,24,44,Balma,16625,287,16912
+76,Occitanie,31,3,03,69,Blagnac,25525,489,26014
+76,Occitanie,31,3,04,113,Castanet-Tolosan,14213,249,14462
+76,Occitanie,31,3,05,116,Castelginest,10682,117,10799
+76,Occitanie,31,3,21,149,Colomiers,39968,561,40529
+76,Occitanie,31,3,26,157,Cugnaux,19344,253,19597
+76,Occitanie,31,1,11,187,Fonsorbes,12170,329,12499
+76,Occitanie,31,1,09,395,Muret,24797,564,25361
+76,Occitanie,31,3,11,424,Plaisance-du-Touch,19402,411,19813
+76,Occitanie,31,3,25,446,Ramonville-Saint-Agne,14600,317,14917
+76,Occitanie,31,2,14,483,Saint-Gaudens,11773,564,12337
+76,Occitanie,31,3,23,488,Saint-Jean,11017,138,11155
+76,Occitanie,31,3,04,506,Saint-Orens-de-Gameville,12696,229,12925
+76,Occitanie,31,3,99,555,Toulouse,493465,5131,498596
+76,Occitanie,31,3,26,557,Tournefeuille,28117,615,28732
+76,Occitanie,31,3,23,561,L'Union,11798,164,11962
+76,Occitanie,31,3,26,588,Villeneuve-Tolosane,10050,126,10176
+76,Occitanie,32,1,99,13,Auch,22173,1103,23276
+75,Nouvelle-Aquitaine,33,2,26,3,Ambarès-et-Lagrave,16636,156,16792
+75,Nouvelle-Aquitaine,33,6,01,5,Andernos-les-Bains,12242,275,12517
+75,Nouvelle-Aquitaine,33,6,32,9,Arcachon,11630,268,11898
+75,Nouvelle-Aquitaine,33,2,96,39,Bègles,30642,349,30991
+75,Nouvelle-Aquitaine,33,6,01,51,Biganos,10990,123,11113
+75,Nouvelle-Aquitaine,33,2,25,56,Blanquefort,15419,605,16024
+75,Nouvelle-Aquitaine,33,2,97,63,Bordeaux,260958,3299,264257
+75,Nouvelle-Aquitaine,33,2,07,69,Le Bouscat,23890,277,24167
+75,Nouvelle-Aquitaine,33,2,07,75,Bruges,19403,187,19590
+75,Nouvelle-Aquitaine,33,2,09,119,Cenon,25496,227,25723
+75,Nouvelle-Aquitaine,33,2,23,122,Cestas,17053,276,17329
+75,Nouvelle-Aquitaine,33,2,25,162,Eysines,24488,264,24752
+75,Nouvelle-Aquitaine,33,2,09,167,Floirac,18181,97,18278
+75,Nouvelle-Aquitaine,33,2,24,192,Gradignan,25694,334,26028
+75,Nouvelle-Aquitaine,33,6,14,199,Gujan-Mestras,21887,447,22334
+75,Nouvelle-Aquitaine,33,2,18,200,Le Haillan,11539,189,11728
+75,Nouvelle-Aquitaine,33,2,08,238,Léognan,10571,173,10744
+75,Nouvelle-Aquitaine,33,5,16,243,Libourne,24257,544,24801
+75,Nouvelle-Aquitaine,33,2,17,249,Lormont,23181,317,23498
+75,Nouvelle-Aquitaine,33,2,98,281,Mérignac,72197,723,72920
+75,Nouvelle-Aquitaine,33,6,14,284,Mios,10781,128,10909
+75,Nouvelle-Aquitaine,33,2,99,318,Pessac,65245,762,66007
+75,Nouvelle-Aquitaine,33,1,20,366,Saint-André-de-Cubzac,12372,181,12553
+75,Nouvelle-Aquitaine,33,2,26,433,Saint-Loubès,9909,108,10017
+75,Nouvelle-Aquitaine,33,2,28,449,Saint-Médard-en-Jalles,31808,520,32328
+75,Nouvelle-Aquitaine,33,2,28,519,Le Taillan-Médoc,10141,145,10286
+75,Nouvelle-Aquitaine,33,2,31,522,Talence,43820,979,44799
+75,Nouvelle-Aquitaine,33,6,32,529,La Teste-de-Buch,26168,378,26546
+75,Nouvelle-Aquitaine,33,2,33,550,Villenave-d'Ornon,36754,205,36959
+76,Occitanie,34,1,01,3,Agde,29600,400,30000
+76,Occitanie,34,1,98,32,Béziers,78308,1242,79550
+76,Occitanie,34,3,20,57,Castelnau-le-Lez,22534,382,22916
+76,Occitanie,34,3,08,108,Frontignan,23028,227,23255
+76,Occitanie,34,3,10,123,Juvignac,11344,103,11447
+76,Occitanie,34,3,10,129,Lattes,17453,227,17680
+76,Occitanie,34,3,12,145,Lunel,26385,242,26627
+76,Occitanie,34,3,13,154,Mauguio,16705,194,16899
+76,Occitanie,34,3,14,157,Mèze,12307,166,12473
+76,Occitanie,34,3,99,172,Montpellier,295542,3391,298933
+76,Occitanie,34,2,23,255,Saint-Gély-du-Fesc,10197,265,10462
+76,Occitanie,34,3,10,270,Saint-Jean-de-Védas,11086,204,11290
+76,Occitanie,34,3,25,301,Sète,43858,601,44459
+76,Occitanie,34,3,22,337,Villeneuve-lès-Maguelone,10344,121,10465
+53,Bretagne,35,3,03,24,Betton,12265,259,12524
+53,Bretagne,35,3,04,47,Bruz,18905,461,19366
+53,Bretagne,35,3,03,51,Cesson-Sévigné,17082,534,17616
+53,Bretagne,35,3,20,55,Chantepie,10278,191,10469
+53,Bretagne,35,3,05,69,Châteaugiron,10283,263,10546
+53,Bretagne,35,4,26,93,Dinard,10181,526,10707
+53,Bretagne,35,1,97,115,Fougères,20595,653,21248
+53,Bretagne,35,3,23,210,Pacé,11860,329,12189
+53,Bretagne,35,2,17,236,Redon,9287,745,10032
+53,Bretagne,35,3,98,238,Rennes,220488,4167,224655
+53,Bretagne,35,3,03,278,Saint-Grégoire,9890,372,10262
+53,Bretagne,35,3,22,281,Saint-Jacques-de-la-Lande,13948,158,14106
+53,Bretagne,35,4,99,288,Saint-Malo,46803,1338,48141
+53,Bretagne,35,1,27,360,Vitré,18487,553,19040
+24,Centre-Val de Loire,36,2,99,44,Châteauroux,43122,1540,44662
+24,Centre-Val de Loire,36,4,09,88,Issoudun,11477,290,11767
+24,Centre-Val de Loire,37,3,01,3,Amboise,12533,379,12912
+24,Centre-Val de Loire,37,2,10,50,Chambray-lès-Tours,11880,262,12142
+24,Centre-Val de Loire,37,2,12,109,Fondettes,10301,523,10824
+24,Centre-Val de Loire,37,2,07,122,Joué-lès-Tours,38444,412,38856
+24,Centre-Val de Loire,37,2,10,156,Montlouis-sur-Loire,10868,149,11017
+24,Centre-Val de Loire,37,2,02,195,La Riche,10317,80,10397
+24,Centre-Val de Loire,37,2,14,208,Saint-Avertin,14995,297,15292
+24,Centre-Val de Loire,37,2,12,214,Saint-Cyr-sur-Loire,16419,415,16834
+24,Centre-Val de Loire,37,2,14,233,Saint-Pierre-des-Corps,15967,250,16217
+24,Centre-Val de Loire,37,2,99,261,Tours,137087,2756,139843
+84,Auvergne-Rhône-Alpes,38,2,02,53,Bourgoin-Jallieu,28834,609,29443
+84,Auvergne-Rhône-Alpes,38,2,04,85,Charvieu-Chavagneux,10102,84,10186
+84,Auvergne-Rhône-Alpes,38,1,05,151,Échirolles,36932,212,37144
+84,Auvergne-Rhône-Alpes,38,1,05,158,Eybens,9980,119,10099
+84,Auvergne-Rhône-Alpes,38,1,97,169,Fontaine,23211,234,23445
+84,Auvergne-Rhône-Alpes,38,1,98,185,Grenoble,158198,2243,160441
+84,Auvergne-Rhône-Alpes,38,2,14,193,L'Isle-d'Abeau,16584,318,16902
+84,Auvergne-Rhône-Alpes,38,1,16,229,Meylan,17786,391,18177
+84,Auvergne-Rhône-Alpes,38,1,20,317,Le Pont-de-Claix,10716,76,10792
+84,Auvergne-Rhône-Alpes,38,1,10,382,Saint-Égrève,15944,220,16164
+84,Auvergne-Rhône-Alpes,38,1,22,421,Saint-Martin-d'Hères,37935,265,38200
+84,Auvergne-Rhône-Alpes,38,1,07,474,Sassenage,11062,197,11259
+84,Auvergne-Rhône-Alpes,38,1,06,485,Seyssinet-Pariset,11891,142,12033
+84,Auvergne-Rhône-Alpes,38,3,99,544,Vienne,29993,341,30334
+84,Auvergne-Rhône-Alpes,38,2,14,553,Villefontaine,18835,271,19106
+84,Auvergne-Rhône-Alpes,38,1,29,563,Voiron,20372,499,20871
+27,Bourgogne-Franche-Comté,39,1,98,198,Dole,23711,893,24604
+27,Bourgogne-Franche-Comté,39,2,99,300,Lons-le-Saunier,17189,810,17999
+75,Nouvelle-Aquitaine,40,2,07,46,Biscarrosse,13947,345,14292
+75,Nouvelle-Aquitaine,40,1,98,88,Dax,20843,841,21684
+75,Nouvelle-Aquitaine,40,2,99,192,Mont-de-Marsan,29807,1413,31220
+75,Nouvelle-Aquitaine,40,1,05,279,Saint-Paul-lès-Dax,13381,481,13862
+75,Nouvelle-Aquitaine,40,2,11,281,Saint-Pierre-du-Mont,9689,360,10049
+75,Nouvelle-Aquitaine,40,1,15,312,Tarnos,12634,299,12933
+24,Centre-Val de Loire,41,1,99,18,Blois,45898,1520,47418
+24,Centre-Val de Loire,41,3,10,194,Romorantin-Lanthenay,17924,471,18395
+24,Centre-Val de Loire,41,2,14,269,Vendôme,15856,642,16498
+84,Auvergne-Rhône-Alpes,42,3,01,5,Andrézieux-Bouthéon,9963,150,10113
+84,Auvergne-Rhône-Alpes,42,3,15,44,Le Chambon-Feugerolles,11948,80,12028
+84,Auvergne-Rhône-Alpes,42,3,06,95,Firminy,16901,188,17089
+84,Auvergne-Rhône-Alpes,42,1,07,147,Montbrison,15915,623,16538
+84,Auvergne-Rhône-Alpes,42,2,12,184,Riorges,10848,280,11128
+84,Auvergne-Rhône-Alpes,42,3,10,186,Rive-de-Gier,14978,121,15099
+84,Auvergne-Rhône-Alpes,42,2,98,187,Roanne,33809,738,34547
+84,Auvergne-Rhône-Alpes,42,3,13,207,Saint-Chamond,34841,412,35253
+84,Auvergne-Rhône-Alpes,42,3,99,218,Saint-Étienne,173821,1971,175792
+84,Auvergne-Rhône-Alpes,42,1,20,279,Saint-Just-Saint-Rambert,15229,280,15509
+84,Auvergne-Rhône-Alpes,43,2,99,157,Le Puy-en-Velay,19215,881,20096
+52,Pays de la Loire,44,5,01,3,Ancenis-Saint-Géréon,11037,398,11435
+52,Pays de la Loire,44,5,03,15,Blain,9954,174,10128
+52,Pays de la Loire,44,2,21,20,Bouguenais,19903,305,20208
+52,Pays de la Loire,44,2,04,26,Carquefou,20365,466,20831
+52,Pays de la Loire,44,2,05,35,La Chapelle-sur-Erdre,19551,406,19957
+52,Pays de la Loire,44,5,06,36,Châteaubriant,12031,497,12528
+52,Pays de la Loire,44,2,24,47,Couëron,22309,275,22584
+52,Pays de la Loire,44,3,02,55,La Baule-Escoublac,16255,542,16797
+52,Pays de la Loire,44,3,09,69,Guérande,16112,575,16687
+52,Pays de la Loire,44,2,96,109,Nantes,318808,5167,323975
+52,Pays de la Loire,44,2,25,114,Orvault,27209,699,27908
+52,Pays de la Loire,44,3,19,129,Pontchâteau,10901,260,11161
+52,Pays de la Loire,44,3,20,131,Pornic,15859,438,16297
+52,Pays de la Loire,44,3,02,132,Pornichet,11141,299,11440
+52,Pays de la Loire,44,2,97,143,Rezé,42919,791,43710
+52,Pays de la Loire,44,3,23,154,Saint-Brevin-les-Pins,14287,318,14605
+52,Pays de la Loire,44,2,98,162,Saint-Herblain,47415,720,48135
+52,Pays de la Loire,44,2,04,172,Sainte-Luce-sur-Loire,15319,269,15588
+52,Pays de la Loire,44,3,99,184,Saint-Nazaire,71394,1745,73139
+52,Pays de la Loire,44,2,29,190,Saint-Sébastien-sur-Loire,27493,676,28169
+52,Pays de la Loire,44,2,04,204,Thouaré-sur-Loire,10482,179,10661
+52,Pays de la Loire,44,2,31,215,Vertou,25541,599,26140
+24,Centre-Val de Loire,45,1,02,4,Amilly,13233,590,13823
+24,Centre-Val de Loire,45,1,02,68,Châlette-sur-Loing,12688,262,12950
+24,Centre-Val de Loire,45,2,19,75,La Chapelle-Saint-Mesmin,10180,218,10398
+24,Centre-Val de Loire,45,2,06,147,Fleury-les-Aubrais,21010,266,21276
+24,Centre-Val de Loire,45,1,07,155,Gien,13566,408,13974
+24,Centre-Val de Loire,45,1,11,208,Montargis,14976,545,15521
+24,Centre-Val de Loire,45,2,12,232,Olivet,22386,481,22867
+24,Centre-Val de Loire,45,2,99,234,Orléans,116269,2363,118632
+24,Centre-Val de Loire,45,2,18,284,Saint-Jean-de-Braye,21288,592,21880
+24,Centre-Val de Loire,45,2,19,285,Saint-Jean-de-la-Ruelle,16411,267,16678
+24,Centre-Val de Loire,45,2,15,302,Saran,16357,206,16563
+76,Occitanie,46,1,98,42,Cahors,19937,940,20877
+76,Occitanie,46,2,99,102,Figeac,9802,670,10472
+75,Nouvelle-Aquitaine,47,1,97,1,Agen,32602,862,33464
+75,Nouvelle-Aquitaine,47,2,98,157,Marmande,17421,587,18008
+75,Nouvelle-Aquitaine,47,3,99,323,Villeneuve-sur-Lot,21742,683,22425
+76,Occitanie,48,2,99,95,Mende,12318,829,13147
+52,Pays de la Loire,49,1,98,7,Angers,155850,3080,158930
+52,Pays de la Loire,49,1,04,15,Avrillé,14443,357,14800
+52,Pays de la Loire,49,3,08,18,Baugé-en-Anjou,11829,261,12090
+52,Pays de la Loire,49,2,09,23,Beaupréau-en-Mauges,23419,716,24135
+52,Pays de la Loire,49,1,86,50,Brissac Loire Aubance,10851,274,11125
+52,Pays de la Loire,49,2,16,69,Orée d'Anjou,16429,277,16706
+52,Pays de la Loire,49,2,11,92,Chemillé-en-Anjou,20828,604,21432
+52,Pays de la Loire,49,2,99,99,Cholet,54037,1942,55979
+52,Pays de la Loire,49,3,14,125,Doué-en-Anjou,11119,257,11376
+52,Pays de la Loire,49,2,09,218,Montrevault-sur-Èvre,15668,317,15985
+52,Pays de la Loire,49,2,16,244,Mauges-sur-Loire,17924,475,18399
+52,Pays de la Loire,49,1,17,246,Les Ponts-de-Cé,12819,541,13360
+52,Pays de la Loire,49,2,18,301,Sèvremoine,25162,553,25715
+52,Pays de la Loire,49,1,07,307,Loire-Authion,15902,575,16477
+52,Pays de la Loire,49,3,19,328,Saumur,26467,982,27449
+52,Pays de la Loire,49,4,20,331,Segré-en-Anjou Bleu,17462,833,18295
+52,Pays de la Loire,49,1,07,353,Trélazé,14961,168,15129
+28,Normandie,50,1,84,25,Avranches,10264,555,10819
+28,Normandie,50,2,14,41,La Hague,11173,336,11509
+28,Normandie,50,4,83,99,Carentan-les-Marais,10052,181,10233
+28,Normandie,50,2,98,129,Cherbourg-en-Cotentin,78549,2363,80912
+28,Normandie,50,1,13,218,Granville,12513,674,13187
+28,Normandie,50,4,99,502,Saint-Lô,19050,913,19963
+44,Grand Est,51,1,97,108,Châlons-en-Champagne,44379,1246,45625
+44,Grand Est,51,2,98,230,Épernay,22433,468,22901
+44,Grand Est,51,3,99,454,Reims,181194,2920,184114
+44,Grand Est,51,3,14,573,Tinqueux,10294,139,10433
+44,Grand Est,51,4,23,649,Vitry-le-François,11376,251,11627
+44,Grand Est,52,1,98,121,Chaumont,21847,1195,23042
+44,Grand Est,52,3,99,448,Saint-Dizier,22928,499,23427
+52,Pays de la Loire,53,1,88,62,Château-Gontier-sur-Mayenne,16950,666,17616
+52,Pays de la Loire,53,2,99,130,Laval,49733,2637,52370
+52,Pays de la Loire,53,3,14,147,Mayenne,12823,680,13503
+44,Grand Est,54,3,06,304,Laxou,14366,191,14557
+44,Grand Est,54,1,07,323,Longwy,14774,272,15046
+44,Grand Est,54,2,98,329,Lunéville,17867,324,18191
+44,Grand Est,54,3,99,395,Nancy,105058,1446,106504
+44,Grand Est,54,3,18,431,Pont-à-Mousson,14497,187,14684
+44,Grand Est,54,3,19,482,Saint-Max,10019,110,10129
+44,Grand Est,54,4,20,528,Toul,15633,265,15898
+44,Grand Est,54,3,22,547,Vandœuvre-lès-Nancy,29942,281,30223
+44,Grand Est,54,3,06,578,Villers-lès-Nancy,14525,302,14827
+44,Grand Est,54,1,23,580,Villerupt,10003,108,10111
+44,Grand Est,55,1,98,29,Bar-le-Duc,14625,596,15221
+44,Grand Est,55,3,99,545,Verdun,16942,964,17906
+53,Bretagne,56,1,01,7,Auray,14141,423,14564
+53,Bretagne,56,1,05,78,Guidel,11767,309,12076
+53,Bretagne,56,1,06,83,Hennebont,16062,405,16467
+53,Bretagne,56,1,07,98,Lanester,23124,475,23599
+53,Bretagne,56,1,98,121,Lorient,57246,1486,58732
+53,Bretagne,56,1,12,162,Ploemeur,17778,639,18417
+53,Bretagne,56,2,13,165,Ploërmel,9791,564,10355
+53,Bretagne,56,2,15,178,Pontivy,15064,934,15998
+53,Bretagne,56,3,21,206,Saint-Avé,11895,303,12198
+53,Bretagne,56,3,99,260,Vannes,53719,1973,55692
+44,Grand Est,57,9,18,19,Amnéville,10416,72,10488
+44,Grand Est,57,3,03,160,Creutzwald,13042,216,13258
+44,Grand Est,57,7,06,206,Fameck,14442,157,14599
+44,Grand Est,57,7,06,221,Florange,11972,93,12065
+44,Grand Est,57,3,08,227,Forbach,21597,290,21887
+44,Grand Est,57,3,09,240,Freyming-Merlebach,12725,120,12845
+44,Grand Est,57,7,10,306,Hayange,16005,186,16191
+44,Grand Est,57,9,24,433,Maizières-lès-Metz,11668,127,11795
+44,Grand Est,57,9,15,447,Marly,10108,231,10339
+44,Grand Est,57,9,98,463,Metz,118489,1846,120335
+44,Grand Est,57,9,15,480,Montigny-lès-Metz,21879,357,22236
+44,Grand Est,57,3,19,606,Saint-Avold,15415,352,15767
+44,Grand Est,57,5,21,630,Sarrebourg,12449,312,12761
+44,Grand Est,57,6,22,631,Sarreguemines,20635,470,21105
+44,Grand Est,57,3,25,660,Stiring-Wendel,11178,126,11304
+44,Grand Est,57,7,99,672,Thionville,40778,756,41534
+44,Grand Est,57,9,24,751,Woippy,14014,137,14151
+44,Grand Est,57,7,27,757,Yutz,17143,265,17408
+27,Bourgogne-Franche-Comté,58,3,99,194,Nevers,33005,1064,34069
+32,Hauts-de-France,59,3,01,8,Aniche,10085,83,10168
+32,Hauts-de-France,59,5,40,9,Villeneuve-d'Ascq,61957,656,62613
+32,Hauts-de-France,59,5,02,11,Annœullin,10471,112,10583
+32,Hauts-de-France,59,6,03,14,Anzin,13329,82,13411
+32,Hauts-de-France,59,5,04,17,Armentières,24909,360,25269
+32,Hauts-de-France,59,4,08,43,Bailleul,15163,241,15404
+32,Hauts-de-France,59,6,03,112,Bruay-sur-l'Escaut,11258,40,11298
+32,Hauts-de-France,59,2,09,122,Cambrai,32176,618,32794
+32,Hauts-de-France,59,2,11,139,Caudry,14121,140,14261
+32,Hauts-de-France,59,5,22,152,Comines,12788,99,12887
+32,Hauts-de-France,59,4,12,155,Coudekerque-Branche,20851,293,21144
+32,Hauts-de-France,59,5,13,163,Croix,20881,276,21157
+32,Hauts-de-France,59,6,14,172,Denain,19877,122,19999
+32,Hauts-de-France,59,3,15,178,Douai,39613,858,40471
+32,Hauts-de-France,59,6,14,179,Douchy-les-Mines,10293,32,10325
+32,Hauts-de-France,59,4,96,183,Dunkerque,86279,1268,87547
+32,Hauts-de-France,59,5,18,220,Faches-Thumesnil,18191,122,18313
+32,Hauts-de-France,59,1,19,249,Fourmies,11563,191,11754
+32,Hauts-de-France,59,4,20,271,Grande-Synthe,22522,209,22731
+32,Hauts-de-France,59,4,20,273,Gravelines,11014,188,11202
+32,Hauts-de-France,59,5,37,279,Halluin,20743,114,20857
+32,Hauts-de-France,59,5,18,286,Haubourdin,14725,115,14840
+32,Hauts-de-France,59,1,07,291,Hautmont,14517,97,14614
+32,Hauts-de-France,59,4,21,295,Hazebrouck,21408,457,21865
+32,Hauts-de-France,59,5,13,299,Hem,18636,174,18810
+32,Hauts-de-France,59,1,30,324,Jeumont,10344,111,10455
+32,Hauts-de-France,59,5,22,328,Lambersart,27400,435,27835
+32,Hauts-de-France,59,5,97,350,Lille,234475,1925,236400
+32,Hauts-de-France,59,5,28,360,Loos,22866,241,23107
+32,Hauts-de-France,59,5,13,367,Lys-lez-Lannoy,13643,151,13794
+32,Hauts-de-France,59,5,23,368,La Madeleine,21856,188,22044
+32,Hauts-de-France,59,5,24,378,Marcq-en-Barœul,38486,697,39183
+32,Hauts-de-France,59,6,29,383,Marly,12083,114,12197
+32,Hauts-de-France,59,5,23,386,Marquette-lez-Lille,10798,69,10867
+32,Hauts-de-France,59,1,30,392,Maubeuge,29589,283,29872
+32,Hauts-de-France,59,5,25,410,Mons-en-Barœul,21277,138,21415
+32,Hauts-de-France,59,5,24,421,Mouvaux,13121,177,13298
+32,Hauts-de-France,59,5,37,426,Neuville-en-Ferrain,10264,68,10332
+32,Hauts-de-France,59,6,34,491,Raismes,12324,64,12388
+32,Hauts-de-France,59,5,26,507,Ronchin,19294,120,19414
+32,Hauts-de-France,59,5,37,508,Roncq,13482,129,13611
+32,Hauts-de-France,59,5,98,512,Roubaix,98828,466,99294
+32,Hauts-de-France,59,6,34,526,Saint-Amand-les-Eaux,15870,164,16034
+32,Hauts-de-France,59,5,23,527,Saint-André-lez-Lille,13151,117,13268
+32,Hauts-de-France,59,6,39,544,Saint-Saulve,11276,159,11435
+32,Hauts-de-France,59,5,18,560,Seclin,12463,94,12557
+32,Hauts-de-France,59,3,35,569,Sin-le-Noble,15428,109,15537
+32,Hauts-de-France,59,3,35,574,Somain,11934,77,12011
+32,Hauts-de-France,59,5,99,599,Tourcoing,98656,689,99345
+32,Hauts-de-France,59,6,39,606,Valenciennes,43229,448,43677
+32,Hauts-de-France,59,6,29,616,Vieux-Condé,10465,51,10516
+32,Hauts-de-France,59,5,23,636,Wambrechies,10608,104,10712
+32,Hauts-de-France,59,5,13,646,Wasquehal,20860,232,21092
+32,Hauts-de-France,59,5,18,648,Wattignies,15075,193,15268
+32,Hauts-de-France,59,5,33,650,Wattrelos,40898,172,41070
+32,Hauts-de-France,60,1,98,57,Beauvais,57071,1449,58520
+32,Hauts-de-France,60,4,12,139,Chambly,10147,133,10280
+32,Hauts-de-France,60,4,03,141,Chantilly,10950,228,11178
+32,Hauts-de-France,60,2,05,157,Clermont,10163,235,10398
+32,Hauts-de-France,60,3,99,159,Compiègne,40615,1028,41643
+32,Hauts-de-France,60,4,08,175,Creil,36169,259,36428
+32,Hauts-de-France,60,4,09,176,Crépy-en-Valois,14788,266,15054
+32,Hauts-de-France,60,1,12,395,Méru,14452,182,14634
+32,Hauts-de-France,60,4,13,414,Montataire,13645,166,13811
+32,Hauts-de-France,60,4,16,463,Nogent-sur-Oise,20780,362,21142
+32,Hauts-de-France,60,3,17,471,Noyon,13190,260,13450
+32,Hauts-de-France,60,4,18,509,Pont-Sainte-Maxence,12602,122,12724
+32,Hauts-de-France,60,4,20,612,Senlis,14760,626,15386
+28,Normandie,61,1,97,1,Alençon,25870,752,26622
+28,Normandie,61,2,98,6,Argentan,13395,353,13748
+28,Normandie,61,2,99,169,Flers,14762,364,15126
+32,Hauts-de-France,62,1,96,41,Arras,41694,788,42482
+32,Hauts-de-France,62,2,05,48,Auchel,10272,44,10316
+32,Hauts-de-France,62,7,08,65,Avion,17625,139,17764
+32,Hauts-de-France,62,4,10,108,Berck,13482,331,13813
+32,Hauts-de-France,62,2,11,119,Béthune,25039,349,25388
+32,Hauts-de-France,62,3,97,160,Boulogne-sur-Mer,40251,436,40687
+32,Hauts-de-France,62,2,16,178,Bruay-la-Buissière,21903,367,22270
+32,Hauts-de-France,62,7,17,186,Bully-les-Mines,12156,77,12233
+32,Hauts-de-France,62,6,98,193,Calais,72509,625,73134
+32,Hauts-de-France,62,7,21,215,Carvin,17557,103,17660
+32,Hauts-de-France,62,7,21,250,Courrières,10554,96,10650
+32,Hauts-de-France,62,4,24,318,Étaples,10912,113,11025
+32,Hauts-de-France,62,7,26,413,Harnes,12237,92,12329
+32,Hauts-de-France,62,7,99,427,Hénin-Beaumont,25992,374,26366
+32,Hauts-de-France,62,7,29,498,Lens,31461,187,31648
+32,Hauts-de-France,62,7,30,510,Liévin,30112,363,30475
+32,Hauts-de-France,62,5,32,525,Longuenesse,10563,519,11082
+32,Hauts-de-France,62,6,34,548,Marck,10529,125,10654
+32,Hauts-de-France,62,7,08,570,Méricourt,11267,69,11336
+32,Hauts-de-France,62,7,27,587,Montigny-en-Gohelle,10180,54,10234
+32,Hauts-de-France,62,2,35,617,Nœux-les-Mines,11575,70,11645
+32,Hauts-de-France,62,7,27,637,Oignies,9993,48,10041
+32,Hauts-de-France,62,3,36,643,Outreau,13378,170,13548
+32,Hauts-de-France,62,3,14,758,Saint-Martin-Boulogne,11136,182,11318
+32,Hauts-de-France,62,5,37,765,Saint-Omer,14903,656,15559
+84,Auvergne-Rhône-Alpes,63,2,03,14,Aubière,10904,154,11058
+84,Auvergne-Rhône-Alpes,63,2,04,32,Beaumont,10664,225,10889
+84,Auvergne-Rhône-Alpes,63,2,08,75,Chamalières,17276,573,17849
+84,Auvergne-Rhône-Alpes,63,2,99,113,Clermont-Ferrand,147865,2731,150596
+84,Auvergne-Rhône-Alpes,63,2,16,124,Cournon-d'Auvergne,20322,366,20688
+84,Auvergne-Rhône-Alpes,63,2,17,164,Gerzat,10289,86,10375
+84,Auvergne-Rhône-Alpes,63,3,18,178,Issoire,15296,405,15701
+84,Auvergne-Rhône-Alpes,63,2,24,284,Pont-du-Château,12182,305,12487
+84,Auvergne-Rhône-Alpes,63,4,25,300,Riom,19004,758,19762
+84,Auvergne-Rhône-Alpes,63,5,30,430,Thiers,11784,368,12152
+75,Nouvelle-Aquitaine,64,1,96,24,Anglet,39719,1121,40840
+75,Nouvelle-Aquitaine,64,1,97,102,Bayonne,51894,1169,53063
+75,Nouvelle-Aquitaine,64,1,07,122,Biarritz,25787,721,26508
+75,Nouvelle-Aquitaine,64,3,08,129,Billère,12793,230,13023
+75,Nouvelle-Aquitaine,64,1,10,260,Hendaye,16967,437,17404
+75,Nouvelle-Aquitaine,64,3,11,335,Lescar,9665,419,10084
+75,Nouvelle-Aquitaine,64,3,11,348,Lons,13707,250,13957
+75,Nouvelle-Aquitaine,64,2,98,422,Oloron-Sainte-Marie,10594,639,11233
+75,Nouvelle-Aquitaine,64,3,16,430,Orthez,10369,678,11047
+75,Nouvelle-Aquitaine,64,3,99,445,Pau,75627,1443,77070
+75,Nouvelle-Aquitaine,64,1,24,483,Saint-Jean-de-Luz,14196,422,14618
+75,Nouvelle-Aquitaine,64,1,10,545,Urrugne,10418,193,10611
+76,Occitanie,65,1,98,286,Lourdes,13132,317,13449
+76,Occitanie,65,3,99,440,Tarbes,42758,1063,43821
+76,Occitanie,66,1,05,8,Argelès-sur-Mer,10260,248,10508
+76,Occitanie,66,2,08,28,Cabestany,10301,206,10507
+76,Occitanie,66,2,03,37,Canet-en-Roussillon,12284,251,12535
+76,Occitanie,66,2,99,136,Perpignan,119344,1427,120771
+76,Occitanie,66,1,03,171,Saint-Cyprien,11040,150,11190
+76,Occitanie,66,2,14,172,Saint-Estève,11719,160,11879
+76,Occitanie,66,2,04,180,Saint-Laurent-de-la-Salanque,10071,102,10173
+44,Grand Est,67,8,15,43,Bischheim,17353,209,17562
+44,Grand Est,67,2,01,46,Bischwiller,12746,137,12883
+44,Grand Est,67,2,03,67,Brumath,10081,104,10185
+44,Grand Est,67,5,04,130,Erstein,10661,123,10784
+44,Grand Est,67,2,05,180,Haguenau,35196,561,35757
+44,Grand Est,67,8,06,204,Hœnheim,11304,81,11385
+44,Grand Est,67,8,07,218,Illkirch-Graffenstaden,26698,691,27389
+44,Grand Est,67,8,09,267,Lingolsheim,19439,150,19589
+44,Grand Est,67,5,12,348,Obernai,11765,456,12221
+44,Grand Est,67,8,07,365,Ostwald,12723,129,12852
+44,Grand Est,67,4,14,437,Saverne,11378,306,11684
+44,Grand Est,67,8,15,447,Schiltigheim,33780,198,33978
+44,Grand Est,67,5,16,462,Sélestat,19242,265,19507
+44,Grand Est,67,8,99,482,Strasbourg,287228,2878,290106
+44,Grand Est,68,6,03,63,Cernay,11476,208,11684
+44,Grand Est,68,2,98,66,Colmar,68682,1074,69756
+44,Grand Est,68,6,07,112,Guebwiller,11020,305,11325
+44,Grand Est,68,4,12,154,Illzach,14784,201,14985
+44,Grand Est,68,4,08,166,Kingersheim,13263,150,13413
+44,Grand Est,68,4,99,224,Mulhouse,108312,1219,109531
+44,Grand Est,68,4,13,271,Riedisheim,12520,326,12846
+44,Grand Est,68,4,13,278,Rixheim,14204,201,14405
+44,Grand Est,68,4,14,297,Saint-Louis,22413,287,22700
+44,Grand Est,68,4,17,375,Wittelsheim,10362,137,10499
+44,Grand Est,68,4,17,376,Wittenheim,14776,111,14887
+84,Auvergne-Rhône-Alpes,69,2,03,19,Belleville-en-Beaujolais,13314,277,13591
+84,Auvergne-Rhône-Alpes,69,1,05,27,Brignais,12097,175,12272
+84,Auvergne-Rhône-Alpes,69,1,00,29,Bron,42244,401,42645
+84,Auvergne-Rhône-Alpes,69,1,00,34,Caluire-et-Cuire,43294,622,43916
+84,Auvergne-Rhône-Alpes,69,1,00,69,Craponne,11248,184,11432
+84,Auvergne-Rhône-Alpes,69,1,00,81,Écully,18948,385,19333
+84,Auvergne-Rhône-Alpes,69,1,00,89,Francheville,14906,258,15164
+84,Auvergne-Rhône-Alpes,69,1,00,91,Givors,20285,104,20389
+84,Auvergne-Rhône-Alpes,69,1,00,149,Oullins,26553,278,26831
+84,Auvergne-Rhône-Alpes,69,1,00,152,Pierre-Bénite,10397,60,10457
+84,Auvergne-Rhône-Alpes,69,1,00,199,Saint-Fons,19617,61,19678
+84,Auvergne-Rhône-Alpes,69,1,00,202,Sainte-Foy-lès-Lyon,22175,392,22567
+84,Auvergne-Rhône-Alpes,69,1,00,204,Saint-Genis-Laval,20914,477,21391
+84,Auvergne-Rhône-Alpes,69,2,10,243,Tarare,10490,273,10763
+84,Auvergne-Rhône-Alpes,69,1,00,244,Tassin-la-Demi-Lune,22286,351,22637
+84,Auvergne-Rhône-Alpes,69,1,00,256,Vaulx-en-Velin,52795,221,53016
+84,Auvergne-Rhône-Alpes,69,1,00,259,Vénissieux,67285,266,67551
+84,Auvergne-Rhône-Alpes,69,2,13,264,Villefranche-sur-Saône,36291,419,36710
+84,Auvergne-Rhône-Alpes,69,1,00,266,Villeurbanne,152212,1082,153294
+84,Auvergne-Rhône-Alpes,69,1,00,271,Chassieu,10638,152,10790
+84,Auvergne-Rhône-Alpes,69,1,00,273,Corbas,11196,73,11269
+84,Auvergne-Rhône-Alpes,69,1,00,275,Décines-Charpieu,28930,139,29069
+84,Auvergne-Rhône-Alpes,69,1,06,277,Genas,13181,221,13402
+84,Auvergne-Rhône-Alpes,69,1,00,282,Meyzieu,34640,301,34941
+84,Auvergne-Rhône-Alpes,69,1,00,283,Mions,13707,146,13853
+84,Auvergne-Rhône-Alpes,69,1,00,286,Rillieux-la-Pape,30697,366,31063
+84,Auvergne-Rhône-Alpes,69,1,00,290,Saint-Priest,46927,284,47211
+84,Auvergne-Rhône-Alpes,69,1,00,381,Lyon 1er Arrondissement,29641,782,30423
+84,Auvergne-Rhône-Alpes,69,1,00,382,Lyon 2e Arrondissement,31303,386,31689
+84,Auvergne-Rhône-Alpes,69,1,00,383,Lyon 3e Arrondissement,102725,1006,103731
+84,Auvergne-Rhône-Alpes,69,1,00,384,Lyon 4e Arrondissement,36064,406,36470
+84,Auvergne-Rhône-Alpes,69,1,00,385,Lyon 5e Arrondissement,49664,1085,50749
+84,Auvergne-Rhône-Alpes,69,1,00,386,Lyon 6e Arrondissement,52862,884,53746
+84,Auvergne-Rhône-Alpes,69,1,00,387,Lyon 7e Arrondissement,82573,493,83066
+84,Auvergne-Rhône-Alpes,69,1,00,388,Lyon 8e Arrondissement,86154,1022,87176
+84,Auvergne-Rhône-Alpes,69,1,00,389,Lyon 9e Arrondissement,51983,537,52520
+27,Bourgogne-Franche-Comté,70,1,97,285,Héricourt,10646,272,10918
+27,Bourgogne-Franche-Comté,70,2,99,550,Vesoul,14914,749,15663
+27,Bourgogne-Franche-Comté,71,1,96,14,Autun,12987,1022,14009
+27,Bourgogne-Franche-Comté,71,2,97,76,Chalon-sur-Saône,45056,1521,46577
+27,Bourgogne-Franche-Comté,71,1,98,153,Le Creusot,21269,298,21567
+27,Bourgogne-Franche-Comté,71,5,99,270,Mâcon,33908,755,34663
+27,Bourgogne-Franche-Comté,71,1,23,306,Montceau-les-Mines,17678,308,17986
+52,Pays de la Loire,72,3,16,3,Allonnes,11167,109,11276
+52,Pays de la Loire,72,1,06,154,La Flèche,14858,1071,15929
+52,Pays de la Loire,72,3,99,181,Le Mans,143847,2856,146703
+52,Pays de la Loire,72,1,17,264,Sablé-sur-Sarthe,12125,456,12581
+84,Auvergne-Rhône-Alpes,73,2,97,8,Aix-les-Bains,30463,577,31040
+84,Auvergne-Rhône-Alpes,73,1,98,11,Albertville,19502,564,20066
+84,Auvergne-Rhône-Alpes,73,2,99,65,Chambéry,58917,1561,60478
+84,Auvergne-Rhône-Alpes,73,2,12,179,La Motte-Servolex,12120,611,12731
+84,Auvergne-Rhône-Alpes,74,1,99,10,Annecy,130721,3380,134101
+84,Auvergne-Rhône-Alpes,74,3,04,12,Annemasse,36582,396,36978
+84,Auvergne-Rhône-Alpes,74,2,05,42,Bonneville,12509,406,12915
+84,Auvergne-Rhône-Alpes,74,2,06,81,Cluses,16918,405,17323
+84,Auvergne-Rhône-Alpes,74,3,09,133,Gaillard,10071,108,10179
+84,Auvergne-Rhône-Alpes,74,2,10,208,Passy,11233,423,11656
+84,Auvergne-Rhône-Alpes,74,2,11,224,La Roche-sur-Foron,11149,342,11491
+84,Auvergne-Rhône-Alpes,74,1,12,225,Rumilly,15768,377,16145
+84,Auvergne-Rhône-Alpes,74,3,13,243,Saint-Julien-en-Genevois,15873,252,16125
+84,Auvergne-Rhône-Alpes,74,2,14,256,Sallanches,16831,491,17322
+84,Auvergne-Rhône-Alpes,74,4,17,281,Thonon-les-Bains,35826,1147,36973
+11,Île-de-France,75,1,  ,101,Paris 1er Arrondissement,15917,138,16055
+11,Île-de-France,75,1,  ,102,Paris 2e Arrondissement,21595,140,21735
+11,Île-de-France,75,1,  ,103,Paris 3e Arrondissement,34025,281,34306
+11,Île-de-France,75,1,  ,104,Paris 4e Arrondissement,29131,259,29390
+11,Île-de-France,75,1,  ,105,Paris 5e Arrondissement,58227,670,58897
+11,Île-de-France,75,1,  ,106,Paris 6e Arrondissement,40303,868,41171
+11,Île-de-France,75,1,  ,107,Paris 7e Arrondissement,48888,793,49681
+11,Île-de-France,75,1,  ,108,Paris 8e Arrondissement,35655,595,36250
+11,Île-de-France,75,1,  ,109,Paris 9e Arrondissement,60026,537,60563
+11,Île-de-France,75,1,  ,110,Paris 10e Arrondissement,86472,391,86863
+11,Île-de-France,75,1,  ,111,Paris 11e Arrondissement,145208,820,146028
+11,Île-de-France,75,1,  ,112,Paris 12e Arrondissement,139297,940,140237
+11,Île-de-France,75,1,  ,113,Paris 13e Arrondissement,180005,1228,181233
+11,Île-de-France,75,1,  ,114,Paris 14e Arrondissement,135592,976,136568
+11,Île-de-France,75,1,  ,115,Paris 15e Arrondissement,230981,1687,232668
+11,Île-de-France,75,1,  ,116,Paris 16e Arrondissement,165523,2254,167777
+11,Île-de-France,75,1,  ,117,Paris 17e Arrondissement,166543,1432,167975
+11,Île-de-France,75,1,  ,118,Paris 18e Arrondissement,192468,820,193288
+11,Île-de-France,75,1,  ,119,Paris 19e Arrondissement,184573,998,185571
+11,Île-de-France,75,1,  ,120,Paris 20e Arrondissement,194994,924,195918
+28,Normandie,76,3,01,57,Barentin,12398,229,12627
+28,Normandie,76,3,02,108,Bois-Guillaume,14592,404,14996
+28,Normandie,76,2,03,114,Bolbec,11610,136,11746
+28,Normandie,76,3,04,157,Canteleu,13846,373,14219
+28,Normandie,76,3,05,165,Caudebec-lès-Elbeuf,9949,67,10016
+28,Normandie,76,3,22,216,Déville-lès-Rouen,10654,75,10729
+28,Normandie,76,1,95,217,Dieppe,28241,468,28709
+28,Normandie,76,3,09,231,Elbeuf,16224,126,16350
+28,Normandie,76,2,11,259,Fécamp,18041,288,18329
+28,Normandie,76,3,13,322,Le Grand-Quevilly,25963,250,26213
+28,Normandie,76,2,96,351,Le Havre,168290,1830,170120
+28,Normandie,76,3,04,410,Maromme,10663,135,10798
+28,Normandie,76,2,15,447,Montivilliers,15470,235,15705
+28,Normandie,76,3,22,451,Mont-Saint-Aignan,19357,375,19732
+28,Normandie,76,2,25,476,Port-Jérôme-sur-Seine,10248,185,10433
+28,Normandie,76,3,31,484,Oissel,12241,58,12299
+28,Normandie,76,3,27,498,Le Petit-Quevilly,22000,275,22275
+28,Normandie,76,3,97,540,Rouen,112321,1613,113934
+28,Normandie,76,3,98,575,Saint-Étienne-du-Rouvray,28352,221,28573
+28,Normandie,76,3,99,681,Sotteville-lès-Rouen,29068,445,29513
+28,Normandie,76,3,35,758,Yvetot,11448,222,11670
+11,Île-de-France,77,4,07,14,Avon,13419,224,13643
+11,Île-de-France,77,5,04,53,Brie-Comte-Robert,18812,317,19129
+11,Île-de-France,77,5,22,58,Bussy-Saint-Georges,26597,347,26944
+11,Île-de-France,77,2,20,67,Cesson,10833,145,10978
+11,Île-de-France,77,5,01,83,Champs-sur-Marne,25654,154,25808
+11,Île-de-France,77,5,02,108,Chelles,55154,294,55448
+11,Île-de-France,77,1,03,118,Claye-Souilly,12172,133,12305
+11,Île-de-France,77,2,04,122,Combs-la-Ville,21627,150,21777
+11,Île-de-France,77,1,05,131,Coulommiers,14779,239,15018
+11,Île-de-France,77,2,19,152,Dammarie-les-Lys,22128,146,22274
+11,Île-de-France,77,1,12,153,Dammartin-en-Goële,10355,88,10443
+11,Île-de-France,77,4,07,186,Fontainebleau,15696,463,16159
+11,Île-de-France,77,5,09,243,Lagny-sur-Marne,21539,225,21764
+11,Île-de-France,77,2,04,251,Lieusaint,13853,94,13947
+11,Île-de-France,77,5,01,258,Lognes,14353,65,14418
+11,Île-de-France,77,1,10,284,Meaux,55750,479,56229
+11,Île-de-France,77,2,20,285,Le Mée-sur-Seine,20917,142,21059
+11,Île-de-France,77,2,11,288,Melun,40844,295,41139
+11,Île-de-France,77,1,12,294,Mitry-Mory,20648,83,20731
+11,Île-de-France,77,2,04,296,Moissy-Cramayel,17849,135,17984
+11,Île-de-France,77,3,13,305,Montereau-Fault-Yonne,21229,193,21422
+11,Île-de-France,77,5,09,307,Montévrain,13517,111,13628
+11,Île-de-France,77,4,13,316,Moret-Loing-et-Orvanne,12223,333,12556
+11,Île-de-France,77,4,15,333,Nemours,13088,123,13211
+11,Île-de-France,77,5,01,337,Noisiel,15960,107,16067
+11,Île-de-France,77,5,16,350,Ozoir-la-Ferrière,20532,194,20726
+11,Île-de-France,77,5,17,373,Pontault-Combault,37617,208,37825
+11,Île-de-France,77,3,18,379,Provins,12132,285,12417
+11,Île-de-France,77,5,17,390,Roissy-en-Brie,22851,82,22933
+11,Île-de-France,77,2,19,407,Saint-Fargeau-Ponthierry,14121,125,14246
+11,Île-de-France,77,2,20,445,Savigny-le-Temple,29987,225,30212
+11,Île-de-France,77,5,09,464,Thorigny-sur-Marne,10454,116,10570
+11,Île-de-France,77,5,22,468,Torcy,22030,104,22134
+11,Île-de-France,77,5,23,479,Vaires-sur-Marne,13368,132,13500
+11,Île-de-France,77,2,11,487,Vaux-le-Pénil,11101,159,11260
+11,Île-de-France,77,1,23,514,Villeparisis,26580,98,26678
+11,Île-de-France,78,3,13,5,Achères,21529,159,21688
+11,Île-de-France,78,3,05,15,Andrésy,13302,147,13449
+11,Île-de-France,78,1,01,29,Aubergenville,12152,64,12216
+11,Île-de-France,78,4,15,73,Bois-d'Arcy,15325,143,15468
+11,Île-de-France,78,3,13,123,Carrières-sous-Poissy,16641,116,16757
+11,Île-de-France,78,3,06,124,Carrières-sur-Seine,15178,198,15376
+11,Île-de-France,78,4,04,126,La Celle-Saint-Cloud,20692,404,21096
+11,Île-de-France,78,3,05,138,Chanteloup-les-Vignes,10426,73,10499
+11,Île-de-France,78,3,03,146,Chatou,30153,501,30654
+11,Île-de-France,78,4,04,158,Le Chesnay-Rocquencourt,31233,638,31871
+11,Île-de-France,78,4,12,165,Les Clayes-sous-Bois,17487,235,17722
+11,Île-de-France,78,3,05,172,Conflans-Sainte-Honorine,35536,410,35946
+11,Île-de-France,78,3,03,190,Croissy-sur-Seine,10031,336,10367
+11,Île-de-France,78,2,18,208,Élancourt,25624,244,25868
+11,Île-de-France,78,4,15,242,Fontenay-le-Fleury,13466,141,13607
+11,Île-de-France,78,4,10,297,Guyancourt,29471,461,29932
+11,Île-de-France,78,3,06,311,Houilles,32801,346,33147
+11,Île-de-France,78,1,07,335,Limay,17136,105,17241
+11,Île-de-France,78,3,17,358,Maisons-Laffitte,23361,501,23862
+11,Île-de-France,78,1,08,361,Mantes-la-Jolie,43921,195,44116
+11,Île-de-France,78,1,08,362,Mantes-la-Ville,20818,157,20975
+11,Île-de-France,78,3,03,372,Marly-le-Roi,16385,499,16884
+11,Île-de-France,78,2,09,383,Maurepas,17683,248,17931
+11,Île-de-France,78,3,06,418,Montesson,14991,278,15269
+11,Île-de-France,78,4,10,423,Montigny-le-Bretonneux,32282,459,32741
+11,Île-de-France,78,1,11,440,Les Mureaux,33203,159,33362
+11,Île-de-France,78,3,16,481,Le Pecq,15716,330,16046
+11,Île-de-France,78,4,12,490,Plaisir,30950,353,31303
+11,Île-de-France,78,3,13,498,Poissy,39187,288,39475
+11,Île-de-France,78,2,14,517,Rambouillet,27141,495,27636
+11,Île-de-France,78,4,15,545,Saint-Cyr-l'École,19792,640,20432
+11,Île-de-France,78,3,16,551,Saint-Germain-en-Laye,44806,1843,46649
+11,Île-de-France,78,3,17,586,Sartrouville,52774,449,53223
+11,Île-de-France,78,4,18,621,Trappes,32645,114,32759
+11,Île-de-France,78,3,19,624,Triel-sur-Seine,12250,213,12463
+11,Île-de-France,78,4,21,640,Vélizy-Villacoublay,23092,184,23276
+11,Île-de-France,78,3,19,642,Verneuil-sur-Seine,15980,372,16352
+11,Île-de-France,78,3,19,643,Vernouillet,10104,187,10291
+11,Île-de-France,78,4,99,646,Versailles,84808,2038,86846
+11,Île-de-France,78,3,03,650,Le Vésinet,15943,553,16496
+11,Île-de-France,78,4,15,674,Villepreux,11003,205,11208
+11,Île-de-France,78,4,21,686,Viroflay,16752,348,17100
+11,Île-de-France,78,2,09,688,Voisins-le-Bretonneux,10835,374,11209
+75,Nouvelle-Aquitaine,79,1,02,49,Bressuire,19850,997,20847
+75,Nouvelle-Aquitaine,79,2,99,191,Niort,59193,1834,61027
+75,Nouvelle-Aquitaine,79,3,13,202,Parthenay,10089,400,10489
+75,Nouvelle-Aquitaine,79,1,16,329,Thouars,13886,344,14230
+32,Hauts-de-France,80,1,98,1,Abbeville,22980,410,23390
+32,Hauts-de-France,80,2,99,21,Amiens,134706,2674,137380
+76,Occitanie,81,1,96,4,Albi,48902,1723,50625
+76,Occitanie,81,2,98,65,Castres,42079,1470,43549
+76,Occitanie,81,1,11,99,Gaillac,15265,323,15588
+76,Occitanie,81,2,12,105,Graulhet,12844,245,13089
+76,Occitanie,81,2,15,140,Lavaur,10879,426,11305
+76,Occitanie,81,2,99,163,Mazamet,9996,422,10418
+76,Occitanie,82,1,03,33,Castelsarrasin,14114,323,14437
+76,Occitanie,82,1,05,112,Moissac,13378,319,13697
+76,Occitanie,82,2,99,121,Montauban,61372,1460,62832
+93,Provence-Alpes-Côte d'Azur,83,2,12,16,Le Beausset,9845,175,10020
+93,Provence-Alpes-Côte d'Azur,83,3,01,23,Brignoles,17361,345,17706
+93,Provence-Alpes-Côte d'Azur,83,1,15,42,Cogolin,11311,238,11549
+93,Provence-Alpes-Côte d'Azur,83,2,02,47,La Crau,18774,428,19202
+93,Provence-Alpes-Côte d'Azur,83,2,18,49,Cuers,11962,139,12101
+93,Provence-Alpes-Côte d'Azur,83,1,03,50,Draguignan,39433,911,40344
+93,Provence-Alpes-Côte d'Azur,83,1,96,61,Fréjus,54458,843,55301
+93,Provence-Alpes-Côte d'Azur,83,2,06,62,La Garde,25505,313,25818
+93,Provence-Alpes-Côte d'Azur,83,2,97,69,Hyères,54821,977,55798
+93,Provence-Alpes-Côte d'Azur,83,2,02,71,La Londe-les-Maures,10641,135,10776
+93,Provence-Alpes-Côte d'Azur,83,3,09,73,Le Luc,11094,112,11206
+93,Provence-Alpes-Côte d'Azur,83,2,10,90,Ollioules,13866,253,14119
+93,Provence-Alpes-Côte d'Azur,83,2,06,98,Le Pradet,10277,149,10426
+93,Provence-Alpes-Côte d'Azur,83,1,11,107,Roquebrune-sur-Argens,14937,191,15128
+93,Provence-Alpes-Côte d'Azur,83,2,12,112,Saint-Cyr-sur-Mer,11484,241,11725
+93,Provence-Alpes-Côte d'Azur,83,1,15,115,Sainte-Maxime,14448,224,14672
+93,Provence-Alpes-Côte d'Azur,83,3,13,116,Saint-Maximin-la-Sainte-Baume,17095,497,17592
+93,Provence-Alpes-Côte d'Azur,83,1,14,118,Saint-Raphaël,36027,601,36628
+93,Provence-Alpes-Côte d'Azur,83,2,10,123,Sanary-sur-Mer,16889,271,17160
+93,Provence-Alpes-Côte d'Azur,83,2,98,126,La Seyne-sur-Mer,62987,762,63749
+93,Provence-Alpes-Côte d'Azur,83,2,17,129,Six-Fours-les-Plages,34592,562,35154
+93,Provence-Alpes-Côte d'Azur,83,2,18,130,Solliès-Pont,11762,184,11946
+93,Provence-Alpes-Côte d'Azur,83,2,99,137,Toulon,178745,1896,180641
+93,Provence-Alpes-Côte d'Azur,83,2,21,144,La Valette-du-Var,24087,259,24346
+93,Provence-Alpes-Côte d'Azur,83,1,23,148,Vidauban,12616,144,12760
+93,Provence-Alpes-Côte d'Azur,84,1,01,3,Apt,11037,221,11258
+93,Provence-Alpes-Côte d'Azur,84,2,99,7,Avignon,91143,1678,92821
+93,Provence-Alpes-Côte d'Azur,84,3,05,19,Bollène,13439,232,13671
+93,Provence-Alpes-Côte d'Azur,84,3,06,31,Carpentras,29236,713,29949
+93,Provence-Alpes-Côte d'Azur,84,1,07,35,Cavaillon,26236,412,26648
+93,Provence-Alpes-Côte d'Azur,84,2,09,54,L'Isle-sur-la-Sorgue,20042,493,20535
+93,Provence-Alpes-Côte d'Azur,84,3,10,80,Monteux,12935,226,13161
+93,Provence-Alpes-Côte d'Azur,84,3,11,87,Orange,28772,665,29437
+93,Provence-Alpes-Côte d'Azur,84,3,12,88,Pernes-les-Fontaines,10170,287,10457
+93,Provence-Alpes-Côte d'Azur,84,1,13,89,Pertuis,20557,309,20866
+93,Provence-Alpes-Côte d'Azur,84,2,14,92,Le Pontet,17041,136,17177
+93,Provence-Alpes-Côte d'Azur,84,2,15,129,Sorgues,18893,234,19127
+93,Provence-Alpes-Côte d'Azur,84,2,14,141,Vedène,11383,368,11751
+52,Pays de la Loire,85,2,01,3,Aizenay,9881,198,10079
+52,Pays de la Loire,85,3,02,47,Challans,21322,773,22095
+52,Pays de la Loire,85,1,05,92,Fontenay-le-Comte,13235,724,13959
+52,Pays de la Loire,85,2,06,109,Les Herbiers,16250,485,16735
+52,Pays de la Loire,85,2,10,146,Montaigu-Vendée,20424,634,21058
+52,Pays de la Loire,85,2,99,191,La Roche-sur-Yon,55147,2956,58103
+52,Pays de la Loire,85,3,14,194,Les Sables-d'Olonne,45030,1433,46463
+52,Pays de la Loire,85,3,15,226,Saint-Hilaire-de-Riez,11297,204,11501
+75,Nouvelle-Aquitaine,86,3,14,41,Buxerolles,10060,139,10199
+75,Nouvelle-Aquitaine,86,1,98,66,Châtellerault,31487,799,32286
+75,Nouvelle-Aquitaine,86,3,99,194,Poitiers,89212,2275,91487
+75,Nouvelle-Aquitaine,87,2,99,85,Limoges,130876,2260,133136
+75,Nouvelle-Aquitaine,87,2,17,114,Panazol,10900,212,11112
+75,Nouvelle-Aquitaine,87,3,19,154,Saint-Junien,11254,277,11531
+44,Grand Est,88,1,98,160,Épinal,32256,1450,33706
+44,Grand Est,88,3,99,413,Saint-Dié-des-Vosges,19576,484,20060
+27,Bourgogne-Franche-Comté,89,1,98,24,Auxerre,34451,1103,35554
+27,Bourgogne-Franche-Comté,89,3,99,387,Sens,26688,515,27203
+27,Bourgogne-Franche-Comté,90,1,99,10,Belfort,46443,799,47242
+11,Île-de-France,91,3,01,21,Arpajon,11355,92,11447
+11,Île-de-France,91,3,02,27,Athis-Mons,35670,331,36001
+11,Île-de-France,91,2,15,86,Bondoufle,10046,98,10144
+11,Île-de-France,91,3,03,103,Brétigny-sur-Orge,27412,321,27733
+11,Île-de-France,91,2,98,114,Brunoy,25330,427,25757
+11,Île-de-France,91,3,12,161,Chilly-Mazarin,19822,128,19950
+11,Île-de-France,91,2,04,174,Corbeil-Essonnes,51234,294,51528
+11,Île-de-France,91,1,05,200,Dourdan,10452,187,10639
+11,Île-de-France,91,2,06,201,Draveil,28602,265,28867
+11,Île-de-France,91,2,07,215,Épinay-sous-Sénart,12266,83,12349
+11,Île-de-France,91,3,11,216,Épinay-sur-Orge,11184,145,11329
+11,Île-de-France,91,1,08,223,Étampes,25629,184,25813
+11,Île-de-France,91,2,09,228,Évry-Courcouronnes,66851,466,67317
+11,Île-de-France,91,2,15,235,Fleury-Mérogis,13641,18,13659
+11,Île-de-France,91,3,10,272,Gif-sur-Yvette,21007,595,21602
+11,Île-de-France,91,2,20,286,Grigny,28201,98,28299
+11,Île-de-France,91,3,14,312,Igny,9917,303,10220
+11,Île-de-France,91,3,02,326,Juvisy-sur-Orge,17454,127,17581
+11,Île-de-France,91,3,11,345,Longjumeau,21269,143,21412
+11,Île-de-France,91,3,12,377,Massy,50644,352,50996
+11,Île-de-France,91,2,13,386,Mennecy,15292,291,15583
+11,Île-de-France,91,2,99,421,Montgeron,23760,293,24053
+11,Île-de-France,91,3,17,432,Morangis,13424,78,13502
+11,Île-de-France,91,2,16,434,Morsang-sur-Orge,20124,165,20289
+11,Île-de-France,91,3,14,471,Orsay,15503,329,15832
+11,Île-de-France,91,3,14,477,Palaiseau,35236,332,35568
+11,Île-de-France,91,2,15,521,Ris-Orangis,29745,182,29927
+11,Île-de-France,91,3,16,549,Sainte-Geneviève-des-Bois,35830,310,36140
+11,Île-de-France,91,3,01,552,Saint-Germain-lès-Arpajon,10983,77,11060
+11,Île-de-France,91,3,03,570,Saint-Michel-sur-Orge,20484,147,20631
+11,Île-de-France,91,2,07,573,Saint-Pierre-du-Perray,11220,111,11331
+11,Île-de-France,91,3,17,589,Savigny-sur-Orge,36577,246,36823
+11,Île-de-France,91,3,10,645,Verrières-le-Buisson,14888,360,15248
+11,Île-de-France,91,2,19,657,Vigneux-sur-Seine,31394,181,31575
+11,Île-de-France,91,3,18,661,Villebon-sur-Yvette,10466,165,10631
+11,Île-de-France,91,2,20,687,Viry-Châtillon,30865,214,31079
+11,Île-de-France,91,2,21,691,Yerres,29318,209,29527
+11,Île-de-France,91,3,18,692,Les Ulis,25024,150,25174
+11,Île-de-France,92,1,01,2,Antony,62760,775,63535
+11,Île-de-France,92,2,95,4,Asnières-sur-Seine,87143,666,87809
+11,Île-de-France,92,1,03,7,Bagneux,40936,134,41070
+11,Île-de-France,92,2,11,9,Bois-Colombes,28841,241,29082
+11,Île-de-France,92,3,96,12,Boulogne-Billancourt,121583,1242,122825
+11,Île-de-France,92,1,03,14,Bourg-la-Reine,21050,360,21410
+11,Île-de-France,92,1,06,19,Châtenay-Malabry,34021,357,34378
+11,Île-de-France,92,1,07,20,Châtillon,36639,295,36934
+11,Île-de-France,92,3,17,22,Chaville,20771,310,21081
+11,Île-de-France,92,1,08,23,Clamart,52925,499,53424
+11,Île-de-France,92,2,09,24,Clichy,63089,257,63346
+11,Île-de-France,92,2,97,25,Colombes,86534,586,87120
+11,Île-de-France,92,2,98,26,Courbevoie,81558,655,82213
+11,Île-de-France,92,1,07,32,Fontenay-aux-Roses,25531,231,25762
+11,Île-de-France,92,2,23,33,Garches,17795,438,18233
+11,Île-de-France,92,2,11,35,La Garenne-Colombes,29642,247,29889
+11,Île-de-France,92,2,14,36,Gennevilliers,48530,216,48746
+11,Île-de-France,92,3,15,40,Issy-les-Moulineaux,67981,704,68685
+11,Île-de-France,92,2,16,44,Levallois-Perret,66082,571,66653
+11,Île-de-France,92,1,18,46,Malakoff,30950,201,31151
+11,Île-de-France,92,3,17,48,Meudon,45818,684,46502
+11,Île-de-France,92,1,18,49,Montrouge,48352,235,48587
+11,Île-de-France,92,2,99,50,Nanterre,96277,640,96917
+11,Île-de-France,92,2,21,51,Neuilly-sur-Seine,59599,985,60584
+11,Île-de-France,92,1,06,60,Le Plessis-Robinson,30061,154,30215
+11,Île-de-France,92,2,13,62,Puteaux,45157,289,45446
+11,Île-de-France,92,2,22,63,Rueil-Malmaison,78317,1471,79788
+11,Île-de-France,92,2,23,64,Saint-Cloud,30012,598,30610
+11,Île-de-France,92,1,06,71,Sceaux,20004,370,20374
+11,Île-de-France,92,3,05,72,Sèvres,23463,389,23852
+11,Île-de-France,92,2,20,73,Suresnes,49311,505,49816
+11,Île-de-France,92,3,08,75,Vanves,27846,285,28131
+11,Île-de-France,92,3,23,77,Ville-d'Avray,11225,302,11527
+11,Île-de-France,92,2,14,78,Villeneuve-la-Garenne,24097,86,24183
+11,Île-de-France,93,3,01,1,Aubervilliers,88948,191,89139
+11,Île-de-France,93,2,02,5,Aulnay-sous-Bois,86969,410,87379
+11,Île-de-France,93,1,03,6,Bagnolet,36060,106,36166
+11,Île-de-France,93,2,04,7,Le Blanc-Mesnil,57498,166,57664
+11,Île-de-France,93,1,95,8,Bobigny,54363,165,54528
+11,Île-de-France,93,1,06,10,Bondy,54587,159,54746
+11,Île-de-France,93,2,07,13,Le Bourget,15905,43,15948
+11,Île-de-France,93,2,11,14,Clichy-sous-Bois,28782,92,28874
+11,Île-de-France,93,3,07,27,La Courneuve,45053,128,45181
+11,Île-de-France,93,2,96,29,Drancy,72376,282,72658
+11,Île-de-France,93,2,07,30,Dugny,11073,40,11113
+11,Île-de-France,93,3,97,31,Épinay-sur-Seine,54611,157,54768
+11,Île-de-France,93,2,10,32,Gagny,39661,199,39860
+11,Île-de-France,93,1,03,45,Les Lilas,23447,128,23575
+11,Île-de-France,93,2,11,46,Livry-Gargan,45692,216,45908
+11,Île-de-France,93,2,20,47,Montfermeil,27928,130,28058
+11,Île-de-France,93,1,98,48,Montreuil,111240,570,111810
+11,Île-de-France,93,2,21,49,Neuilly-Plaisance,20878,129,21007
+11,Île-de-France,93,2,10,50,Neuilly-sur-Marne,35907,121,36028
+11,Île-de-France,93,2,14,51,Noisy-le-Grand,67871,385,68256
+11,Île-de-France,93,1,05,53,Noisy-le-Sec,44463,128,44591
+11,Île-de-France,93,1,15,55,Pantin,59846,181,60027
+11,Île-de-France,93,2,06,57,Les Pavillons-sous-Bois,23898,97,23995
+11,Île-de-France,93,3,09,59,Pierrefitte-sur-Seine,30861,47,30908
+11,Île-de-France,93,1,15,61,Le Pré-Saint-Gervais,17351,72,17423
+11,Île-de-France,93,2,21,62,Le Raincy,14569,198,14767
+11,Île-de-France,93,1,03,63,Romainville,30087,84,30171
+11,Île-de-France,93,2,12,64,Rosny-sous-Bois,46024,174,46198
+11,Île-de-France,93,3,99,66,Saint-Denis,112852,914,113766
+11,Île-de-France,93,3,18,70,Saint-Ouen-sur-Seine,50697,129,50826
+11,Île-de-France,93,2,19,71,Sevran,51734,173,51907
+11,Île-de-France,93,3,17,72,Stains,38285,76,38361
+11,Île-de-France,93,2,20,73,Tremblay-en-France,36461,163,36624
+11,Île-de-France,93,2,21,77,Villemomble,30405,185,30590
+11,Île-de-France,93,2,19,78,Villepinte,37713,83,37796
+11,Île-de-France,93,3,09,79,Villetaneuse,13574,82,13656
+11,Île-de-France,94,1,01,2,Alfortville,44805,161,44966
+11,Île-de-France,94,3,02,3,Arcueil,21788,122,21910
+11,Île-de-France,94,1,16,4,Boissy-Saint-Léger,16977,55,17032
+11,Île-de-France,94,1,18,11,Bonneuil-sur-Marne,18062,72,18134
+11,Île-de-France,94,2,22,15,Bry-sur-Marne,17525,198,17723
+11,Île-de-France,94,3,02,16,Cachan,30440,274,30714
+11,Île-de-France,94,2,93,17,Champigny-sur-Marne,76990,344,77334
+11,Île-de-France,94,2,05,18,Charenton-le-Pont,29882,204,30086
+11,Île-de-France,94,1,04,19,Chennevières-sur-Marne,18039,114,18153
+11,Île-de-France,94,3,19,21,Chevilly-Larue,19988,69,20057
+11,Île-de-France,94,3,06,22,Choisy-le-Roi,46150,209,46359
+11,Île-de-France,94,1,94,28,Créteil,93246,476,93722
+11,Île-de-France,94,2,09,33,Fontenay-sous-Bois,52008,419,52427
+11,Île-de-France,94,3,10,34,Fresnes,28710,112,28822
+11,Île-de-France,94,3,12,37,Gentilly,18815,106,18921
+11,Île-de-France,94,3,10,38,L'Haÿ-les-Roses,32071,173,32244
+11,Île-de-France,94,3,11,41,Ivry-sur-Seine,63748,250,63998
+11,Île-de-France,94,2,05,42,Joinville-le-Pont,19652,155,19807
+11,Île-de-France,94,3,12,43,Le Kremlin-Bicêtre,24971,114,25085
+11,Île-de-France,94,1,21,44,Limeil-Brévannes,27833,112,27945
+11,Île-de-France,94,2,13,46,Maisons-Alfort,56483,291,56774
+11,Île-de-France,94,2,95,52,Nogent-sur-Marne,34042,236,34278
+11,Île-de-France,94,3,15,54,Orly,24627,178,24805
+11,Île-de-France,94,1,18,55,Ormesson-sur-Marne,10419,91,10510
+11,Île-de-France,94,2,14,58,Le Perreux-sur-Marne,33588,303,33891
+11,Île-de-France,94,1,22,59,Le Plessis-Trévise,19829,78,19907
+11,Île-de-France,94,1,16,60,La Queue-en-Brie,12051,133,12184
+11,Île-de-France,94,2,23,67,Saint-Mandé,22377,199,22576
+11,Île-de-France,94,2,96,68,Saint-Maur-des-Fossés,74976,912,75888
+11,Île-de-France,94,2,05,69,Saint-Maurice,14189,118,14307
+11,Île-de-France,94,1,18,71,Sucy-en-Brie,27157,258,27415
+11,Île-de-France,94,3,19,73,Thiais,30676,234,30910
+11,Île-de-France,94,3,21,74,Valenton,14883,51,14934
+11,Île-de-France,94,1,16,75,Villecresnes,11779,65,11844
+11,Île-de-France,94,3,20,76,Villejuif,55208,243,55451
+11,Île-de-France,94,3,15,77,Villeneuve-le-Roi,21679,96,21775
+11,Île-de-France,94,3,97,78,Villeneuve-Saint-Georges,34890,102,34992
+11,Île-de-France,94,2,22,79,Villiers-sur-Marne,28895,119,29014
+11,Île-de-France,94,2,98,80,Vincennes,49788,442,50230
+11,Île-de-France,94,3,99,81,Vitry-sur-Seine,95510,459,95969
+11,Île-de-France,95,1,98,18,Argenteuil,111038,557,111595
+11,Île-de-France,95,2,11,19,Arnouville,14255,80,14335
+11,Île-de-France,95,1,03,63,Bezons,31671,124,31795
+11,Île-de-France,95,3,99,127,Cergy,65911,518,66429
+11,Île-de-France,95,1,10,176,Cormeilles-en-Parisis,25406,214,25620
+11,Île-de-France,95,2,06,197,Deuil-la-Barre,22149,187,22336
+11,Île-de-France,95,2,07,199,Domont,15504,194,15698
+11,Île-de-France,95,1,08,203,Eaubonne,25335,318,25653
+11,Île-de-France,95,2,15,210,Enghien-les-Bains,11470,158,11628
+11,Île-de-France,95,3,05,218,Éragny,18296,120,18416
+11,Île-de-France,95,1,08,219,Ermont,28939,244,29183
+11,Île-de-France,95,1,10,252,Franconville,37394,170,37564
+11,Île-de-France,95,2,11,268,Garges-lès-Gonesse,43239,94,43333
+11,Île-de-France,95,2,21,277,Gonesse,26106,122,26228
+11,Île-de-France,95,2,12,280,Goussainville,31068,143,31211
+11,Île-de-France,95,1,13,306,Herblay-sur-Seine,31314,231,31545
+11,Île-de-France,95,3,14,313,L'Isle-Adam,12063,216,12279
+11,Île-de-France,95,3,05,323,Jouy-le-Moutier,16741,132,16873
+11,Île-de-France,95,2,12,351,Louvres,11037,83,11120
+11,Île-de-France,95,1,13,424,Montigny-lès-Cormeilles,21528,110,21638
+11,Île-de-France,95,2,06,427,Montmagny,14523,65,14588
+11,Île-de-France,95,2,15,428,Montmorency,21723,252,21975
+11,Île-de-France,95,3,04,476,Osny,17446,239,17685
+11,Île-de-France,95,3,14,487,Persan,13734,54,13788
+11,Île-de-France,95,3,16,500,Pontoise,32405,486,32891
+11,Île-de-France,95,2,06,539,Saint-Brice-sous-Forêt,15043,78,15121
+11,Île-de-France,95,2,01,555,Saint-Gratien,20895,166,21061
+11,Île-de-France,95,1,07,563,Saint-Leu-la-Forêt,16130,174,16304
+11,Île-de-France,95,3,17,572,Saint-Ouen-l'Aumône,24674,115,24789
+11,Île-de-France,95,1,01,582,Sannois,26565,336,26901
+11,Île-de-France,95,2,18,585,Sarcelles,59196,252,59448
+11,Île-de-France,95,2,15,598,Soisy-sous-Montmorency,18033,161,18194
+11,Île-de-France,95,1,19,607,Taverny,26872,190,27062
+11,Île-de-France,95,3,20,637,Vauréal,16456,219,16675
+11,Île-de-France,95,2,21,680,Villiers-le-Bel,28423,117,28540
+1,Guadeloupe,971,2,93,101,Les Abymes,53514,513,54027
+1,Guadeloupe,971,1,94,103,Baie-Mahault,30837,498,31335
+1,Guadeloupe,971,1,06,105,Basse-Terre,9861,244,10105
+1,Guadeloupe,971,1,07,107,Capesterre-Belle-Eau,17741,173,17914
+1,Guadeloupe,971,2,96,113,Le Gosier,26489,344,26833
+1,Guadeloupe,971,1,09,115,Lamentin,16354,297,16651
+1,Guadeloupe,971,2,12,116,Morne-à-l'Eau,16495,197,16692
+1,Guadeloupe,971,2,11,117,Le Moule,22149,274,22423
+1,Guadeloupe,971,1,97,118,Petit-Bourg,24753,421,25174
+1,Guadeloupe,971,2,15,120,Pointe-à-Pitre,15181,108,15289
+1,Guadeloupe,971,1,06,124,Saint-Claude,10466,265,10731
+1,Guadeloupe,971,2,16,125,Saint-François,11689,160,11849
+1,Guadeloupe,971,2,98,128,Sainte-Anne,24151,269,24420
+1,Guadeloupe,971,1,99,129,Sainte-Rose,17985,294,18279
+2,Martinique,972,3,  ,207,Ducos,17655,287,17942
+2,Martinique,972,1,  ,209,Fort-de-France,76512,898,77410
+2,Martinique,972,3,  ,210,Le François,15980,210,16190
+2,Martinique,972,1,  ,213,Le Lamentin,40095,590,40685
+2,Martinique,972,3,  ,220,Rivière-Pilote,11877,143,12020
+2,Martinique,972,3,  ,221,Rivière-Salée,11874,237,12111
+2,Martinique,972,2,  ,222,Le Robert,21913,183,22096
+2,Martinique,972,1,  ,224,Saint-Joseph,15883,249,16132
+2,Martinique,972,2,  ,228,Sainte-Marie,15487,165,15652
+2,Martinique,972,1,  ,229,Schœlcher,19612,218,19830
+2,Martinique,972,2,  ,230,La Trinité,12025,152,12177
+3,Guyane,973,1,  ,302,Cayenne,65493,385,65878
+3,Guyane,973,1,  ,304,Kourou,24903,245,25148
+3,Guyane,973,1,  ,305,Macouria,16219,186,16405
+3,Guyane,973,2,  ,306,Mana,11675,170,11845
+3,Guyane,973,1,  ,307,Matoury,33458,238,33696
+3,Guyane,973,1,  ,309,Remire-Montjoly,26358,381,26739
+3,Guyane,973,2,  ,311,Saint-Laurent-du-Maroni,47621,342,47963
+3,Guyane,973,2,  ,353,Maripasoula,11842,125,11967
+4,La Réunion,974,2,01,401,Les Avirons,11440,210,11650
+4,La Réunion,974,3,06,402,Bras-Panon,13057,203,13260
+4,La Réunion,974,2,01,404,L'Étang-Salé,14059,199,14258
+4,La Réunion,974,2,22,405,Petite-Île,12395,123,12518
+4,La Réunion,974,4,02,407,Le Port,32977,258,33235
+4,La Réunion,974,4,03,408,La Possession,32985,420,33405
+4,La Réunion,974,3,91,409,Saint-André,56902,464,57366
+4,La Réunion,974,3,92,410,Saint-Benoît,37036,249,37285
+4,La Réunion,974,1,93,411,Saint-Denis,153810,1492,155302
+4,La Réunion,974,2,94,412,Saint-Joseph,37918,507,38425
+4,La Réunion,974,4,95,413,Saint-Leu,34586,476,35062
+4,La Réunion,974,2,96,414,Saint-Louis,53120,573,53693
+4,La Réunion,974,4,97,415,Saint-Paul,103208,1348,104556
+4,La Réunion,974,2,98,416,Saint-Pierre,84982,896,85878
+4,La Réunion,974,1,23,418,Sainte-Marie,34061,450,34511
+4,La Réunion,974,1,04,420,Sainte-Suzanne,24065,227,24292
+4,La Réunion,974,2,99,422,Le Tampon,79824,1009,80833
