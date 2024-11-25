@@ -1,0 +1,170 @@
+	1	山 (shān) – mountain
+	2	日 (rì) – sun, day
+	3	木 (mù) – tree, wood
+	4	爱 (ài) – love
+	5	爸 (bà) – father
+	6	北 (běi) – north
+	7	不 (bù) – not, no
+	8	菜 (cài) – vegetable, dish
+	9	茶 (chá) – tea
+	10	出 (chū) – exit, to go out
+	11	车 (chē) – car, vehicle
+	12	吃 (chī) – to eat
+	13	杯 (bēi) – cup, glass
+	14	打 (dǎ) – to hit, to play
+	15	的 (de) – possessive particle ('s), of
+	16	点 (diǎn) – dot, point, o'clock
+	17	电 (diàn) – electricity
+	18	店 (diàn) – shop, store
+	19	东 (dōng) – east
+	20	都 (dōu) – all, both
+	21	头 (tóu) – head
+	22	买 (mǎi) – to buy
+	23	卖 (mài) – to sell
+	24	读 (dú) – to read
+	25	对 (duì) – correct, right, face
+	26	多 (duō) – many, much
+	27	饭 (fàn) – rice, meal
+	28	飞 (fēi) – to fly
+	29	分 (fēn) – minute, to divide
+	30	服 (fú) – clothes, to serve, to obey
+	31	狗 (gǒu) – dog
+	32	关 (guān) – to close, to shut
+	33	馆 (guǎn) – building, shop
+	34	国 (guó) – country
+	35	下 (xià) – down, below
+	36	上 (shàng) – up, above
+	37	子 (zǐ) – child, son
+	38	本 (běn) – root, origin, book
+	39	个 (gè) – individual, general measure word
+	40	儿 (ér) – son, child
+	41	工 (gōng) – work, labor
+	42	口 (kǒu) – mouth
+	43	见 (jiàn) – to see, to meet
+	44	月 (yuè) – moon, month
+	45	心 (xīn) – heart
+	46	中 (zhōng) – middle, center
+	47	人 (rén) – person, people
+	48	几 (jǐ) – how many, several
+	49	水 (shuǐ) – water
+	50	女 (nǚ) – female, woman
+	51	大 (dà) – big
+	52	书 (shū) – book
+	53	一 (yī) – one
+	54	二 (èr) – two
+	55	三 (sān) – three
+	56	四 (sì) – four
+	57	五 (wǔ) – five
+	58	六 (liù) – six
+	59	七 (qī) – seven
+	60	八 (bā) – eight
+	61	九 (jiǔ) – nine
+	62	十 (shí) – ten
+	63	小 (xiǎo) – small
+	64	了 (le) – completed action marker
+	65	少 (shǎo) – few, less
+	66	在 (zài) – at, in, on
+	67	末 (mò) – end
+	68	午 (wǔ) – noon
+	69	果 (guǒ) – fruit
+	70	汉 (hàn) – Chinese (often refers to Han ethnicity)
+	71	好 (hǎo) – good, well
+	72	号 (hào) – number, date, trumpet
+	73	喝 (hē) – to drink
+	74	和 (hé) – and, with
+	75	很 (hěn) – very
+	76	后 (hòu) – after, behind
+	77	候 (hòu) – to wait, time
+	78	欢 (huān) – happy, joyous, welcome
+	79	回 (huí) – to return, to go back
+	80	话 (huà) – speech
+	81	会 (huì) – meeting, be able to do something, will do
+	82	火 (huǒ) – fire
+	83	机 (jī) – machine
+	84	家 (jiā) – home, family
+	85	叫 (jiào) – to yell, to shout, to be called
+	86	觉 (jiào/jué) – to sleep (jiào), to sense/feel (jué)
+	87	姐 (jiě) – older sister
+	88	今 (jīn) – today
+	89	京 (jīng) – capital
+	90	开 kāi - to open
+	91	看 kàn - to look / visit
+	92	客 kè - guest
+	93	块 kuài - piece/ measure w
+	94	来 - lái - to come
+	95	老 - lǎo - old
+	96	冷 - lěng - cold
+	97	里 - lǐ - in/chinese mile
+	98	亮 - liàng - bright
+	99	零 - líng - zero
+	100	天 - tiān - sky/day
+	101	朋 - péng - friend
+	102	雨 - yǔ - rain
+	103	牛 - niú - cow/ox
+	104	手 - shǒu - hand
+	105	白 - bái - white
+	106	令 - lìng - order/command →
+	107	我 - wǒ - I
+	108	们 - men - plural marker for pronouns, and nouns referring to individuals
+	109	是 - shì - to be
+	110	太 - tài - very, too, much; big; extreme
+	111	门 - mén - gate, door, entrance, opening
+	112	从 - cóng - from, by, since, whence, through
+	113	两 - liǎng - two, both, pair, couple; ounce
+	114	气 - qì - steam, vapor; KangXi radical 84
+	115	汽 - qì - steam, vapor, gas
+	116	夕 - xī - evening, dusk
+	117	岁 - suì - classifier for years (of age)
+	118	字 - zì - letter / symbol / character / word /
+	119	学 - xué - learning, knowledge; school
+	120	有 - yǒu - to have / there is / there are / to exist / to be
+	121	没 - méi - (negative prefix for verbs) / have not / not
+	122	目- mù - eye
+	123	妈 - mā - mother, mama
+	124	吗 - ma - final interrogative particle
+	125	妹 - mèi - younger sister
+	126	去 - qù - go away, leave, depart
+	127	你 - nǐ - you, second person pronoun
+	128	苹 - píng - apple
+	129	床 - chuáng - bed, couch; framework, chassis
+	130	百 - bǎi- one hundred; numerous, many
+	131	米 - mǐ - hulled or husked uncooked rice
+	132	夫 - fū - man, male adult, husband; those
+	133	年 - nián - year
+	134	田 - tián - field
+	135	川 - chuān - river / creek / plain
+	136	他 - tā - other, another; he, she, it
+	137	安 - ān -calm / still / quiet / safe / secure
+	138	昨 - zuó - yesterday; in former times, past
+	139	猫 - māo - cat
+	140	钱 - qián - money, currency, coins
+	141	么 - me -interrogative particle; repetition of a tune small; tender
+	142	问 - wèn - to ask
+	143	名 - míng - name, rank, title, position
+	144	那 - nà - that, that one, those
+	145	这 -zhè - this -
+	146	想- xiǎng - to think / to believe / to suppose / to wish / to want / to miss (feel wistful about the absence of sb or sth)
+	147	西 - xī -west
+	148	面 miàn - face, noodles
+	149	明 míng - bright/tmr
+	150	哪 - něi - which? (interrogative, followed by classifier or numeral-classifier)
+	151	说 - shuō to speak / to say / to explain
+	152	能 - néng - to be able; can, permitted to; ability
+	153	太 - tài - highest / greatest / too (much) / very / extremely
+	154	笑 - xiào - laugh, smile
+	155	玩 - wán - toy, to play
+	156	住 - zhù - to live / to dwell / to stay / to reside / to stop / (suffix indicating firmness, steadiness, or coming to a halt)
+	157	找 Zhǎo - to look
+	158	坐 -zuò - to sit / to take a seat / to take (a bus, airplane etc)
+	159	忙 - máng - busy / hurriedly / to hurry / to rush
+	160	作 zuò - to do / to grow / to write or compose /
+	161	脑 - nǎo - brain / mind / head / essence
+	162	呢- ne - question code interrogative or emphatic final;
+	163	漂 piāo - floating, piào - beautiful
+	164	期 qī - period of time; date; time limit
+	165	又 - yòu - again; both; moreover
+	166	做 - zuò - to do; to make; to produce
+	167	吧 - ba - modal particle indicating suggestion or rhetorical question
+	168	只 - zhǐ - only; merely
+	169	听 - tīng - to listen; to hear
+	170	外 - wài - outside; foreign; external
