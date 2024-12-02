@@ -1,5 +1,5 @@
 #lets get this modular
-from atmmodule import *
+from Atm.atmmodule import *
 
 def main():
     # Initialize ATM with a sample account holder and initial balance
