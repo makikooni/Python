@@ -1,3 +1,5 @@
 env/
+Venv/
+Instance/
 .DS_Store
 .DS_Store?
