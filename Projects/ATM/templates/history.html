@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head><title>Transaction History</title></head>
+<body>
+    <h1>Transaction History</h1>
+    <ul>
+        {% for transaction in history %}
+            <li>{{ transaction }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Back to Main Menu</a>
+</body>
+</html>

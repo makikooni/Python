@@ -1,0 +1,28 @@
+
+
+ <!DOCTYPE html>
+<html>
+<head><title>ATM</title>
+
+<style>
+    body, ul {
+
+        text-align:center;
+        text-decoration:none;
+        list-style: none;
+    }
+</style>
+
+</head>
+<body>
+    <h1>Welcome to the ATM</h1>
+    <h2>{{ account_holder }}</h2>
+    <ul>
+        <li><a href="{{ url_for('check_balance') }}">Check Balance</a></li>
+        <li><a href="{{ url_for('deposit') }}">Deposit Money</a></li>
+        <li><a href="{{ url_for('withdraw') }}">Withdraw Money</a></li>
+        <li><a href="{{ url_for('transaction_history') }}">Transaction History</a></li>
+    </ul>
+    <span>Calm down this is just te beggining...</span>
+</body>
+</html>
