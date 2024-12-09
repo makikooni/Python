@@ -7,6 +7,7 @@ source venv/bin/activate
 #Depedencies
 python3 -m pip install Flask
 python3 -m pip install flask flask-sqlalchemy
+python3 -m pip install werkzeug
 
 #Activate current
 source venv/bin/activate
