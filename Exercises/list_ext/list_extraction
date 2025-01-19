@@ -1,0 +1,27 @@
+def extract_first_chinese_character(input_file, output_file, numbered_list=False):
+    """
+    Reads a file with lines containing Chinese characters, Pinyin, and English definitions,
+    extracts only the first Chinese character from each line, and writes it to a new file.
+    Optionally adds a numbered list to the output.
+    """
+    def is_chinese(char):
+        # Check if the character is a Chinese character
+        return '\u4e00' <= char <= '\u9fff'
+    
+    with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', encoding='utf-8') as outfile:
+        line_number = 1
+        for line in infile:
+            line = line.strip()  # Remove leading/trailing whitespace
+            for char in line:
+                if is_chinese(char):  # Check for the first Chinese character
+                    if numbered_list:
+                        outfile.write(f"{line_number}. {char}\n")  # Add line number
+                    else:
+                        outfile.write(f"{char}\n")  # No numbering
+                    line_number += 1
+                    break  # Stop after finding the first Chinese character
+
+# Example usage:
+input_file = 'list_ext/input.txt'
+output_file = 'output.txt'
+extract_first_chinese_character(input_file, output_file, numbered_list=True)  # Change to False to disable numbering
