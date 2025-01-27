@@ -4,7 +4,7 @@ from PIL import Image
 import os
 
 # Load the image
-image_path = 'veggie2.png'  # Replace with your image path
+image_path = 'pumpkinforcut.png'  # Replace with your image path
 image = Image.open(image_path).convert("RGBA")
 image_data = np.array(image)
 
@@ -29,7 +29,7 @@ split_counts = [int(total_visible_pixels * (r / total_ratio)) for r in ratios]
 split_counts[-1] += total_visible_pixels - sum(split_counts)
 
 # Create output directory
-output_dir = "veggie_pixel_random_touch"
+output_dir = "pumpkin_pixel_random_touch"
 os.makedirs(output_dir, exist_ok=True)
 
 # Function to get neighbors (8-connected, diagonal included)
@@ -94,7 +94,7 @@ for i, count in enumerate(split_counts):
     split_image_data = image_data.copy()
     split_image_data[:, :, 3] = split_mask
     split_image = Image.fromarray(split_image_data, mode="RGBA")
-    split_image.save(f"{output_dir}/veggie_pixel_random_touch{i+1}.png")
+    split_image.save(f"{output_dir}/pumpkin_pixel_random_touch{i+1}.png")
     
     print(f"Saved image group {i+1} with {len(blob_pixels)} pixels.")
 
